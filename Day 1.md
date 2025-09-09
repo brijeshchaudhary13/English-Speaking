@@ -39,6 +39,28 @@ Day 1
 * Even, ...
 * Yes. / Yeah.
 * Nothing as such.
+* What happened? / What's wrong? / Any problem?
+* Are you okay?
+* Actually, ...
+* Although, ...
+* Anyway, ...
+* Excuse me. / Pardon. / Sorry.
+* Congratulations!
+* Keep it up! / Well done!
+* I take breakfast / dinner / lunch / juice / fruits / water.
+* I am having breakfast / dinner / lunch / onion / vegetables / rice / pulses / chapatis.
+* Then what?
+* How to do it?
+* Where is the soap?
+* Where is my mobile?
+* I am looking at the mirror.
+* I am combing my hair.
+* Leave it.
+* I'll call/text you at 10:40. / I'll call/text you on Monday.
+* I'll call/text you today / tomorrow / day after tomorrow / next week / next month.
+* Are you mad or what?
+
+
 
 
 ---
@@ -49,7 +71,7 @@ Day 1
 1. **I've got up now.**
 
    * **got up** (गॉट अप) – stood up or woke up from bed.
-   * **I've** (आइव़)
+   * **I've** (आइव़ / आयव़)  
    * **Meaning:** उठ चुका हूँ।
 
 2. **I'm getting off the bed.**
@@ -322,6 +344,156 @@ Day 1
 
   * **Meaning:** कुछ खास नहीं चल रहा है
 
+41. **What happened? / What's wrong? / Any problem?**
+
+   * **What happened?** (व्हाट हैपन्ड?) – क्या हुआ?
+   * **What's wrong?** (व्हाट्स रॉन्ग?) – क्या परेशानी है?
+   * **Any problem?** (एनी प्रॉब्लम?) – कोई समस्या है?
+
+     * **Meaning:** किसी के हालचाल या परेशानी पूछने के लिए
+
+42. **Are you okay?**
+
+   * **okay** (ओके) – ठीक
+
+     * **Meaning:** क्या तुम ठीक हो?
+
+43. **Actually, ...**
+
+   * **Actually** (ऐक्चुअली) – असल में / सच कहूं तो
+
+     * **Meaning:** बात की शुरुआत करने के लिए उपयोग होता है
+
+44. **Although, ...**
+
+   * **Although** (ऑल्दो) – हालांकि
+
+     * **Meaning:** विरोधाभासी बात कहने से पहले उपयोग होता है
+       *(e.g., Although it was raining, I went out.)*
+
+45. **Anyway, ...**
+
+   * **Anyway** (एनीवे) – खैर..., वैसे भी...,
+
+     * **Meaning:** विषय बदलने या बातचीत को आगे बढ़ाने के लिए
+
+46. **Excuse me. / Pardon. / Sorry.**
+
+   * **Excuse me** (एक्सक्यूज़ मी) – माफ कीजिए / ध्यान आकर्षित करने के लिए
+   * **Pardon** (पार्डन) – माफ कीजिए / दोबारा कहें
+   * **Sorry** (सॉरी) – क्षमा करें
+
+     * **Meaning:** माफी माँगने या विनम्रता दिखाने के लिए
+
+47. **Congratulations!**
+
+   * **Congratulations** (कॉग्रेच्युलेशन्स) – बधाई हो
+
+     * **Meaning:** किसी उपलब्धि पर खुशी जाहिर करने के लिए
+
+48. **Keep it up! / Well done!**
+
+   * **Keep it up** (कीप इट अप) – ऐसे ही करते रहो
+   * **Well done** (वेल डन) – शाबाश / बहुत अच्छा
+
+     * **Meaning:** प्रोत्साहन देने के लिए
+
+49. **I take breakfast / dinner / lunch / juice / fruits / water.**
+    **Let me take breakfast / dinner / lunch / juice / fruits / water.** 
+
+   * **breakfast** (ब्रेकफास्ट) – नाश्ता
+   * **dinner** (डिनर) – रात का खाना
+   * **lunch** (लंच) – दोपहर का खाना
+   * **juice** (जूस) – रस
+   * **fruits** (फ्रूट्स) – फल
+   * **water** (वॉटर) – पानी
+   * **Let me** (लेट मी) Or Lemme – मुझे करने दो / मुझे अनुमति दो
+
+     * **Meaning:** मैं नाश्ता / खाना / जूस / फल / पानी लेता हूँ।
+
+50. **I am having breakfast / dinner / lunch / onion / vegetables / rice / pulses / chapatis.**
+
+* **having** (हैविंग) – खा रहा हूँ / ले रहा हूँ
+* **onion** (अनियन) – प्याज़
+* **vegetables** (वेजिटेबल्स) – सब्ज़ियाँ
+* **rice** (राइस) – चावल
+* **pulses** (पल्सेस) – दालें
+* **chapatis** (चपातीज़) – रोटियाँ
+
+  * **Meaning:** मैं नाश्ता / खाना / प्याज़ / सब्ज़ियाँ / चावल / दाल / रोटियाँ खा रहा हूँ।
+
+51. **Then what?**
+
+   * **Then** (देन) – फिर
+
+     * **Meaning:** फिर क्या?
+
+52. **How to do it?**
+
+   * **How** (हाउ) – कैसे
+   * **do** (डू) – करना
+
+     * **Meaning:** इसे कैसे करें?
+
+53. **Where is the soap?**
+
+   * **Where** (व्हेयर) – कहाँ
+   * **soap** (सोप) – साबुन
+
+     * **Meaning:** साबुन कहाँ है?
+
+54. **Where is my mobile?**
+
+   * **mobile** (मोबाइल) – मोबाइल फ़ोन
+
+     * **Meaning:** मेरा मोबाइल कहाँ है?
+
+55. **I am looking at the mirror.**
+
+   * **looking** (लुकिंग) – देख रहा हूँ
+   * **mirror** (मिरर) – दर्पण / शीशा
+
+     * **Meaning:** मैं आईने में देख रहा हूँ।
+
+56. **I am combing my hair.**
+
+   * **combing** (कोम्बिंग) – कंघी करना
+   * **hair** (हेयर) – बाल
+
+     * **Meaning:** मैं अपने बालों में कंघी कर रहा हूँ।
+
+57. **Leave it. / Let it be**
+
+   * **Leave** (लीव) – छोड़ना
+
+     * **Meaning:** इसे छोड़ दो / जाने दो।
+
+58. **I'll call/text you at 10:40. / I'll call/text you on Monday.**
+
+   * **call** (कॉल) – फ़ोन करना
+   * **I'll** आय’ल / आयल / आइल
+   * **text** (टेक्स्ट) – मैसेज भेजना
+   * **Monday** (मंडे) – सोमवार
+
+     * **Meaning:** मैं तुम्हें 10:40 बजे / सोमवार को कॉल या मैसेज करूंगा।
+
+59. **I'll call/text you today / tomorrow / day after tomorrow / next week / next month.**
+
+   * **today** (टुडे) – आज
+   * **tomorrow** (टुमारो) – कल
+   * **day after tomorrow** (डे आफ्टर टुमारो) – परसों
+   * **next week** (नेक्स्ट वीक) – अगला सप्ताह
+   * **next month** (नेक्स्ट मंथ) – अगला महीना
+
+     * **Meaning:** मैं तुम्हें आज / कल / परसों / अगले हफ्ते / अगले महीने कॉल या मैसेज करूंगा।
+
+60. **Are you mad or what?**
+
+    * **mad** (मैड) – पागल
+
+      * **Meaning:** तुम पागल हो क्या?
+
+
 
 
 ---
@@ -376,8 +548,6 @@ Used to say **goodbye** when parting from someone.
 | Take care | टेक केयर    | ध्यान रखना                     |
 
 ---
-
-Let me know if you want more examples or the difference between **bye**, **goodbye**, and **see you**!
 
 
 
