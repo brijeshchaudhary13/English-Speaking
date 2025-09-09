@@ -11,7 +11,7 @@ Day 2
 | **E**  | /ɪ/ (इ) <br> /iː/ (ई) <br> /ɛ/ (ए) <br>  /ə/ (अ)                              | English (इंग्लिश), Eat (ईट), Elephant (एलीफैंट), Again (अगेन)               |
 | **F**  | /f/ (फ)                                                                       | Fish (फिश), Fan (फैन)                                                 |
 | **G**  | /g/ (ग) <br> /dʒ/ (ज) (after c if e or i or y)                                 | Goat (गोट) <br> Giant (जायंट)                                             |
-| **H**  | /h/ (ह) <br> Silent (before O, After C, W, R, G)                              | Hat (हैट), House (हाउस) <br> Hour (आउर/ आर), Chorus (कोरस), What (वॉट), Rhythm (रिदम), Ghost (घोस्ट) |
+| **H**  | /h/ (ह) <br> Silent (before O, After C, W, R, G)                              | Hat (हैट), House (हाउस) <br> Hour (आउर/ आर), Chorus (कोरस), What (वॉट), Rhythm (रिदम), Ghost (गोस्ट) |
 | **I**  | /ɪ/ (इ) <br> /aɪ/ (आइ)                                                        | Ink (इंक), Ice (आइस)                                                  |
 | **J**  | /dʒ/ (ज)                                                                      | Jug (जग), Jump (जंप)                                                  |
 | **K**  | /k/ (क)                                                                       | Kite (काइट), King (किंग)                                              |
