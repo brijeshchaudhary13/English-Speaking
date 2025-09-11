@@ -23,18 +23,82 @@ Day 2
 | **P**  | /p/ (प) <br> /ph/ (फ)                                                         | Pen (पेन), Pig (पिग) <br> Phone (फोन), Photo (फोटो)                                                 |
 | **Q**  | /kw/ (क्व)                                                                    | Queen (क्वीन), Quick (क्विक)                                          |
 | **R**  | /r/ (र)                                                                       | Rabbit (रैबिट), Red (रेड)                                             |
-| **S**  | /s/ (स) <br> /z/ (ज़) <br> /sh/ (श) <br> /su/ (स / श)   <br> /tion/ (शन)       | Sun (सन) <br> Rose (रोज़) <br> Fish (फिश) <br> Suit (सूट), Sugar (शुगर) <br> Station (स्टेशन), Nation (नेशन)                                              |
+| **S**  | /s/ (स) <br> /z/ (ज़) <br> /sh/ (श) <br> /su/ (स / श)   <br> /tion/ (शन)       | Sun (सन), Sip (सिप) <br> Rose (रोज़) <br> Ship (शिप), Fish (फिश) <br> Suit (सूट), Sugar (शुगर) <br> Station (स्टेशन), Nation (नेशन)                                              |
 | **T**  | /t/ (ट)                                                                       | Tiger (टाइगर), Ten (टेन)                                              |
-| **U**  | /ʌ/ (अ) <br> /juː/ (यू) <br> /ʊ/ (उ)                                          | Umbrella (अम्ब्रेला), Use (यूज़), Put (पुट)                           |
-| **V**  | /v/ (व)                                                                       | Van (वैन), Vote (वोट)                                                 |
-| **W**  | /w/ (व)                                                                       | Watch (वॉच), Water (वॉटर)                                             |
-| **X**  | /ks/ (क्स)                                                                    | Box (बॉक्स), Six (सिक्स)                                              |
+| **U**  | /ʌ/ (अ) <br> /juː/ (यु / यू) <br> /ʊ/ (उ) <br> /yo/यो                               | Umbrella (अम्ब्रेला), Use (यूज़), Put (पुट), Cure (क्योर)                           |
+| **V**  | /v/ (व) (Upper teath bottom lip)                                                | Van (वैन), Vote (वोट)                                                 |
+| **W**  | /w/ (व) (Round lips)                                              | Watch (वॉच), Water (वॉटर)                                             |
+| **X**  | /ks/ (क्स) <br> (ज़)                                                        | Box (बॉक्स), Six (सिक्स) <br> Example (इग्ज़ाम्पल), Xerox (जीरॉक्स)                                    |
 | **Y**  | /j/ (य) <br> /aɪ/ (आइ)                                                        | Yak (याक), Yes (यस), My (माय)                                         |
 | **Z**  | /z/ (ज़)                                                                      | Zebra (ज़ीब्रा), Zip (ज़िप)                                           |
 
 ---
+--
+
+| Word       | Pronunciation (Hindi) |
+| ---------- | --------------------- |
+| Is         | इज़                   |
+| Busy       | बिज़ी                 |
+| Zoom       | ज़ूम                  |
+| School     | स्कूल                 |
+| Name       | नेम                   |
+| Water      | वॉटर                  |
+| Sugar      | शुगर                  |
+| Potato     | पोटैटो                |
+| Only       | ओनली                  |
+| Also       | ऑलसो                  |
+| Was        | वाज़                  |
+| Always     | ऑलवेज़                |
+| Has        | हैज़                  |
+| Smile      | स्माइल                |
+| Game       | गेम                   |
+| Walk       | वॉक                   |
+| Sure       | श्योर                 |
+| Tomato     | टोमैटो                |
+| Forty      | फॉरटी                 |
+| Question   | क्वेश्चन              |
+| Music      | म्यूज़िक              |
+| Noise      | नॉइज़                 |
+| Example    | इग्ज़ाम्पल            |
+| Speak      | स्पीक                 |
+| Fame       | फेम                   |
+| Very       | वेरी                  |
+| Heart      | हार्ट                 |
+| Project    | प्रोजेक्ट             |
+| Fourteen   | फोरटीन                |
+| Restaurant | रेस्टोरेंट            |
+| His         | हिज़ / हिज़                                  |
+| She         | शी                                           |
+| Because     | बिकॉज़ / बिकॉज                               |
+| Breakfast   | ब्रेकफ़ास्ट                                  |
+| Relative    | रिलेटिव                                      |
+| Social      | सोशल                                         |
+| Opposite    | ऑपोजिट                                       |
+| Permanent   | पर्मनेंट                                     |
+| Won         | वान                                          |
+| Your        | योर                                          |
+| Tuesday     | ट्यूज़डे                                     |
+| Relation    | रिलेशन                                       |
+| Bedsheet    | बेडशीट                                       |
+| Leave       | लिव                                          |
+| Equal       | इक्वल                                        |
+| Eyes        | आइज़                                         |
+| Punishment  | पनिशमेंट                                     |
+| Government  | गवर्नमेंट                                    |
+| Year        | ईयर / ईयर                                    |
+| My          | माई                                          |
+| Wednesday   | वेंसडे / वेडन्सडे                            |
+| Towel       | टॉवल                                         |
+| Glass       | ग्लास                                        |
+| Across      | अक्रॉस                                       |
+| Understand  | अंडरस्टैंड                                   |
+| Nose        | नोज़                                         |
+| Preposition | प्रिपोजीशन                                   |
+| Does        | डज़ / डज़                                    |
+| Never       | नेवर                                         |
+| Days        | डेज़                                         |
+
+---
 
 
-
-Would you like me to prepare a **PDF version** or an **interactive quiz** based on this?
 
