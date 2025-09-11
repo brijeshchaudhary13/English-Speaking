@@ -12,17 +12,18 @@ Day 2
 | **F**  | /f/ (फ)                                                                       | Fish (फिश), Fan (फैन)                                                 |
 | **G**  | /g/ (ग) <br> /dʒ/ (ज) (after c if e or i or y)                                 | Goat (गोट) <br> Giant (जायंट)                                             |
 | **H**  | /h/ (ह) <br> Silent (before O, After C, W, R, G)                              | Hat (हैट), House (हाउस) <br> Hour (आउर/ आर), Chorus (कोरस), What (वॉट), Rhythm (रिदम), Ghost (गोस्ट) |
-| **I**  | /ɪ/ (इ) <br> /aɪ/ (आइ)                                                        | Ink (इंक), Ice (आइस)                                                  |
+| **I**  | /ɪ/ (इ) <br> /ə/ (अ) <br> /aɪ/ (आइ) <br> /ay/ (आय)                           | Ink (इंक) <br> Ice (आइस) <br> Hire (हायर) <br> First (फर्स्ट)                                                  |
 | **J**  | /dʒ/ (ज)                                                                      | Jug (जग), Jump (जंप)                                                  |
 | **K**  | /k/ (क)                                                                       | Kite (काइट), King (किंग)                                              |
 | **L**  | /l/ (ल)                                                                       | Lion (लायन), Lamp (लैम्प)                                             |
 | **M**  | /m/ (म)                                                                       | Monkey (मंकी), Moon (मून)                                             |
 | **N**  | /n/ (न)                                                                       | Nest (नेस्ट), Net (नेट)                                               |
 | **O**  | /ɒ/ (ऑ) <br> /oʊ/ (ओ) <br> /ʌ/ (अ)                                            | Orange (ऑरेंज), Open (ओपन), Oven (अवन)                                |
-| **P**  | /p/ (प)                                                                       | Pen (पेन), Pig (पिग)                                                  |
+| **OO**  | /ʊ/ (उ)  <br> /ʊ/ (ऊ)                                                         | Foot (फुट), Moon (मून)                                      |
+| **P**  | /p/ (प) <br> /ph/ (फ)                                                         | Pen (पेन), Pig (पिग) <br> Phone (फोन), Photo (फोटो)                                                 |
 | **Q**  | /kw/ (क्व)                                                                    | Queen (क्वीन), Quick (क्विक)                                          |
 | **R**  | /r/ (र)                                                                       | Rabbit (रैबिट), Red (रेड)                                             |
-| **S**  | /s/ (स) <br> /z/ (ज़)                                                         | Sun (सन), Rose (रोज़)                                                 |
+| **S**  | /s/ (स) <br> /z/ (ज़) <br> /sh/ (श) <br> /su/ (स / श)   <br> /tion/ (शन)       | Sun (सन) <br> Rose (रोज़) <br> Fish (फिश) <br> Suit (सूट), Sugar (शुगर) <br> Station (स्टेशन), Nation (नेशन)                                              |
 | **T**  | /t/ (ट)                                                                       | Tiger (टाइगर), Ten (टेन)                                              |
 | **U**  | /ʌ/ (अ) <br> /juː/ (यू) <br> /ʊ/ (उ)                                          | Umbrella (अम्ब्रेला), Use (यूज़), Put (पुट)                           |
 | **V**  | /v/ (व)                                                                       | Van (वैन), Vote (वोट)                                                 |
