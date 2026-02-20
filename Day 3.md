@@ -1,8 +1,8 @@
 * मैं चादर बिछा रहा हूँ। <br>
-  I'm spreading the **bedsheet (बेडशीट)**.
+  I'm spreading | Laying the **bedsheet (बेडशीट)**.
 
 * मैं कालीन बिछा रहा हूँ। <br>
-  I'm spreading the **carpet (कार्पेट)**.
+  I'm spreading | Laying the **carpet (कार्पेट)**.
 
 * मैं पौधों को पानी दे रहा हूँ। <br>
   I'm watering the **plants (प्लांट्स)**.
@@ -11,7 +11,7 @@
   I'm sprinkling water on the **plants (प्लांट्स)**.
 
 * मैं अपने बालों पर पानी छिड़क रहा हूँ। <br>
-  I'm sprinkling water on my **hair (हेयर)**.
+  I'm sprinkling | Spraying water on my **hair (हेयर)**.
 
 * मैं अपनी आँखों पर छीटें मार रहा हूँ। <br>
   I'm splashing water on my **eyes (आइज़)**.
@@ -30,6 +30,7 @@
 
 * मैं इशारा कर रहा हूँ। <br>
   I'm making a **gesture (जेस्चर)**.
+  I'm gesturing.
 
 * मैं आँख मार रहा हूँ। <br>
   I'm **winking (विंकिंग)**.
@@ -42,9 +43,10 @@
 
 * मैं कुन्डी लगा रहा हूँ। <br>
   I'm locking the **latch (लैच)**.
+  I'm bolting.
 
 * मैं बचा हुआ खाना फ्रिज में रख रहा हूँ। <br>
-  I'm keeping the leftover food in the **fridge (फ्रिज)**.
+  I'm keeping | Putting the leftover food in the **fridge (फ्रिज)**.
 
 * मैं दीवार पर सहारा ले रहा हूँ। <br>
   I'm taking support of the **wall (वॉल)**. Or
@@ -65,7 +67,7 @@
   I'm Chopping / cutting a **potato (पोटैटो)**.
 
 * मैं आलू छील रहा हूँ। <br>
-  I'm peeling a **potato (पोटैटो)**.
+  I'm peeling a **potato (पोटैटो)**. | I'm peeling off the potatos.
 
 * मैं खीरा काट रहा हूँ। <br>
   I'm slicing / cutting a **cucumber (क्यूकम्बर)**.
@@ -100,7 +102,7 @@
   I'm taking out the **shirt (शर्ट)** from the **cupboard (कपबोर्ड)**/ Almirah(अलमिरा).
 
 * मैं अल्मारी में टटोल रहा हूँ।  <br>
-  I'm searching in the **cupboard (कपबोर्ड)**.
+  I'm searching | Groping in the **cupboard (कबर्ड)**.
 
 * मैं वॉशिंग मशीन में कपड़े डाल रहा हूँ।  <br>
   I'm putting clothes in the **washing machine (वॉशिंग मशीन)**.
@@ -137,6 +139,9 @@
 
 * मैं बिस्किट खा रहा हूँ। <br>
   I'm eating a **biscuit (बिस्किट)**.
+  I’m having a biscuit.
+  For food action → eating (most natural) correct
+  For polite/casual tone → having
 
 * मैं पानी पी रहा हूँ। <br>
   I'm drinking **water (वॉटर)**.
