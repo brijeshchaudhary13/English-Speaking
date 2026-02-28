@@ -1,4 +1,20 @@
+### **Prick**
 
+Pronunciation: प्रिक
+Hindi: चुभाना / काँटा / (अनौपचारिक, अपमानजनक) बुरा आदमी
+
+Examples:
+
+1. He felt a prick on his finger from the needle.
+उसे सुई से अपनी उंगली में चुभन महसूस हुई।
+
+2. Be careful with the rose; its thorns can prick you.
+गुलाब से सावधान रहो; उसके काँटे तुम्हें चुभ सकते हैं।
+
+3. Don’t be a prick to others.
+दूसरों के साथ बुरा व्यवहार मत करो।
+
+----
 
 ### **1. Eat**
 
