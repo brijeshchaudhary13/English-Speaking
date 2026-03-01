@@ -1,2644 +1,2162 @@
-### **Prick**
-
-Pronunciation: प्रिक
-Hindi: चुभाना / काँटा / (अनौपचारिक, अपमानजनक) बुरा आदमी
+**1. Prick (प्रिक)** : चुभाना / चुभना
+**Prick - Pricked - Pricked - Pricking**
 
 Examples:
+He pricked me with a needle. उसने मुझे सुई से चुभा दिया।
 
-1. He felt a prick on his finger from the needle.
-उसे सुई से अपनी उंगली में चुभन महसूस हुई।
-
-2. Be careful with the rose; its thorns can prick you.
-गुलाब से सावधान रहो; उसके काँटे तुम्हें चुभ सकते हैं।
-
-3. Don’t be a prick to others.
-दूसरों के साथ बुरा व्यवहार मत करो।
-
-----
-
-### **1. Eat**
-
-**Pronunciation:** ईट
-**Hindi:** खाना
-
-**Examples:**
-
-1. I eat breakfast at 8 AM every day.
-   **मैं हर दिन सुबह 8 बजे नाश्ता करता हूँ।**
-2. She doesn’t eat junk food.
-   **वह जंक फूड नहीं खाती है।**
+Don’t prick your finger. अपनी उंगली मत चुभाओ।
 
 ---
 
-### **2. Go**
+**2. Eat / Have (ईट / हैव)** : खाना
+**Eat - Ate - Eaten - Eating**
+**Have - Had - Had - Having**
 
-**Pronunciation:** गो
-**Hindi:** जाना
+Examples:
+Don’t eat junk food. जंक फूड मत खाओ।
 
-**Examples:**
-
-1. I go to school by bus.
-   **मैं बस से स्कूल जाता हूँ।**
-2. We go for a walk every evening.
-   **हम हर शाम टहलने जाते हैं।**
+I usually have lunch at 1 pm. मैं आमतौर पर 1 बजे लंच करता हूँ।
 
 ---
 
-### **3. Drink**
+**3. Drink / Have (ड्रिंक / हैव)** : पीना
+**Drink - Drank - Drunk - Drinking**
 
-**Pronunciation:** ड्रिंक
-**Hindi:** पीना
+Examples:
+Drink plenty of water. खूब पानी पियो।
 
-**Examples:**
-
-1. I drink water after every meal.
-   **मैं हर खाने के बाद पानी पीता हूँ।**
-2. Do you drink tea or coffee?
-   **क्या आप चाय या कॉफ़ी पीते हैं?**
+We can’t drink salty water. हम खारा पानी नहीं पी सकते।
 
 ---
 
-### **4. Read**
+**4. Feed (फीड)** : खिलाना
+**Feed - Fed - Fed - Feeding**
 
-**Pronunciation:** रीड
-**Hindi:** पढ़ना
+Examples:
+Feed the baby properly. बच्चे को ठीक से खिलाओ।
 
-**Examples:**
-
-1. I read books before sleeping.
-   **मैं सोने से पहले किताबें पढ़ता हूँ।**
-2. She reads the newspaper daily.
-   **वह रोज़ अख़बार पढ़ती है।**
+Don’t feed junk food to children. बच्चों को जंक फूड मत खिलाओ।
 
 ---
 
-### **5. Write**
+**5. Serve (सर्व)** : परोसना
+**Serve - Served - Served - Serving**
 
-**Pronunciation:** राइट
-**Hindi:** लिखना
+Examples:
+Serve the food now. अब खाना परोस दो।
 
-**Examples:**
-
-1. I write in my diary every night.
-   **मैं हर रात अपनी डायरी में लिखता हूँ।**
-2. He writes with his left hand.
-   **वह अपने बाएं हाथ से लिखता है।**
+She served tea to the guests. उसने मेहमानों को चाय परोसी।
 
 ---
 
-Sure! Here are **10 more daily use verbs** continuing from number **6 to 15**, with **pronunciation**, **Hindi meaning**, and **2 examples with Hindi translations**:
+**6. Chew (चू)** : चबाना
+**Chew - Chewed - Chewed - Chewing**
+
+Examples:
+Chew the food well. खाना अच्छी तरह चबाओ।
+
+Don’t chew gum in class. क्लास में च्यूइंग गम मत चबाओ।
 
 ---
 
-### **6. Speak**
+**7. Swallow (स्वालो)** : निगलना
+**Swallow - Swallowed - Swallowed - Swallowing**
 
-**Pronunciation:** स्पीक
-**Hindi:** बोलना
+Examples:
+He swallowed the pill. उसने गोली निगल ली।
 
-**Examples:**
-
-1. I speak English at work.
-   **मैं काम पर अंग्रेज़ी बोलता हूँ।**
-2. Do you speak Hindi?
-   **क्या आप हिंदी बोलते हैं?**
+Don’t swallow it whole. इसे पूरा मत निगलो।
 
 ---
 
-### **7. Listen**
+**8. Fry (फ्राय)** : तेल में भूनना
+**Fry - Fried - Fried - Frying**
 
-**Pronunciation:** लिसन
-**Hindi:** सुनना
+Examples:
+Fry the onions well. प्याज अच्छी तरह भूनो।
 
-**Examples:**
-
-1. I listen to music every day.
-   **मैं रोज़ संगीत सुनता हूँ।**
-2. She listens carefully in class.
-   **वह कक्षा में ध्यान से सुनती है।**
+She is frying eggs. वह अंडे फ्राय कर रही है।
 
 ---
 
-### **8. Watch**
+**9. Roast (रोस्ट)** : आग/गर्मी में भूनना
+**Roast - Roasted - Roasted - Roasting**
 
-**Pronunciation:** वॉच
-**Hindi:** देखना
+Examples:
+Roast the chicken properly. चिकन अच्छी तरह रोस्ट करो।
 
-**Examples:**
-
-1. We watch movies on weekends.
-   **हम सप्ताहांत पर फ़िल्में देखते हैं।**
-2. He watches the news every night.
-   **वह हर रात समाचार देखता है।**
+Roasted corn tastes good. भुना हुआ भुट्टा स्वादिष्ट होता है।
 
 ---
 
-### **9. Walk**
+**10. Bake (बेक)** : सेकना
+**Bake - Baked - Baked - Baking**
 
-**Pronunciation:** वॉक
-**Hindi:** चलना / टहलना
+Examples:
+Bake the cake for 20 minutes. केक 20 मिनट तक बेक करो।
 
-**Examples:**
-
-1. I walk to the market daily.
-   **मैं रोज़ बाज़ार पैदल जाता हूँ।**
-2. She walks in the park every morning.
-   **वह हर सुबह पार्क में टहलती है।**
+She baked cookies yesterday. उसने कल कुकीज़ बेक कीं।
 
 ---
 
-### **10. Sleep**
-
-**Pronunciation:** स्लीप
-**Hindi:** सोना
-
-**Examples:**
-
-1. I sleep at 10 PM.
-   **मैं रात 10 बजे सोता हूँ।**
-2. Babies sleep a lot.
-   **बच्चे बहुत सोते हैं।**
-
----
-
-### **11. Cook**
-
-**Pronunciation:** कुंक
-**Hindi:** पकाना
-
-**Examples:**
-
-1. My mother cooks delicious food.
-   **मेरी माँ स्वादिष्ट खाना बनाती हैं।**
-2. Do you know how to cook?
-   **क्या तुम्हें खाना बनाना आता है?**
-
----
-
-### **12. Drive**
-
-**Pronunciation:** ड्राइव
-**Hindi:** चलाना (गाड़ी)
-
-**Examples:**
-
-1. I drive to the office every day.
-   **मैं हर दिन ऑफिस गाड़ी से जाता हूँ।**
-2. He drives very fast.
-   **वह बहुत तेज़ गाड़ी चलाता है।**
-
----
-
-### **13. Wash**
-
-**Pronunciation:** वॉश
-**Hindi:** धोना
-
-**Examples:**
-
-1. I wash my hands before eating.
-   **मैं खाने से पहले हाथ धोता हूँ।**
-2. She washes her clothes on Sundays.
-   **वह रविवार को अपने कपड़े धोती है।**
-
----
-
-### **14. Open**
-
-**Pronunciation:** ओपन
-**Hindi:** खोलना
-
-**Examples:**
-
-1. Please open the window.
-   **कृपया खिड़की खोलो।**
-2. He opened the door slowly.
-   **उसने धीरे से दरवाज़ा खोला।**
-
----
-
-### **15. Close**
-
-**Pronunciation:** क्लोज़
-**Hindi:** बंद करना
-
-**Examples:**
-
-1. Close the door, please.
-   **दरवाज़ा बंद कर दो, कृपया।**
-2. She closed her eyes.
-   **उसने अपनी आँखें बंद कर लीं।**
-
----
-
-Absolutely! Here's the next set of **10 daily use verbs**, numbered from **16 to 25**, formatted exactly as you requested:
-
----
-
-**16. Call (कॉल)** : बुलाना / फ़ोन करना
-**Examples:**
-Call me when you reach home.
-जब घर पहुँचो तो मुझे फ़ोन करना।
-
-She called the waiter.
-उसने वेटर को बुलाया।
-
----
-
-**17. Help (हेल्प)** : मदद करना
-**Examples:**
-Can you help me with this bag?
-क्या तुम इस बैग में मेरी मदद कर सकते हो?
-
-He always helps his friends.
-वह हमेशा अपने दोस्तों की मदद करता है।
-
----
-
-**18. Sit (सिट)** : बैठना
-**Examples:**
-Please sit down.
-कृपया बैठ जाइए।
-
-She sat near the window.
-वह खिड़की के पास बैठी।
-
----
-
-**19. Stand (स्टैंड)** : खड़ा होना
-**Examples:**
-Stand here for a moment.
-एक पल के लिए यहाँ खड़े रहो।
-
-He stood in line quietly.
-वह चुपचाप लाइन में खड़ा रहा।
-
----
-
-**20. Buy (बाय)** : खरीदना
-**Examples:**
-I want to buy a new phone.
-मैं एक नया फ़ोन खरीदना चाहता हूँ।
-
-She bought vegetables from the market.
-उसने बाज़ार से सब्ज़ियाँ खरीदीं।
-
----
-
-**21. Sell (सेल)** : बेचना
-**Examples:**
-They sell fresh fruits here.
-यहाँ ताज़े फल बेचे जाते हैं।
-
-He sold his old bike.
-उसने अपनी पुरानी बाइक बेच दी।
-
----
-
-**22. Run (रन)** : दौड़ना
-**Examples:**
-I run every morning to stay fit.
-मैं हर सुबह फिट रहने के लिए दौड़ता हूँ।
-
-The kids ran towards the playground.
-बच्चे खेल के मैदान की ओर दौड़ गए।
-
----
-
-**23. Bring (ब्रिंग)** : लाना
-**Examples:**
-Bring me a glass of water.
-मुझे एक गिलास पानी लाओ।
-
-She brought a gift for me.
-वह मेरे लिए एक तोहफ़ा लाई।
-
----
-
-**24. Take (टेक)** : लेना
-**Examples:**
-Take this medicine after dinner.
-रात के खाने के बाद यह दवाई लो।
-
-Can I take your pen for a while?
-क्या मैं थोड़ी देर के लिए तुम्हारा पेन ले सकता हूँ?
-
----
-
-**25. Teach (टीच)** : सिखाना / पढ़ाना
-**Examples:**
-I teach English at a school.
-मैं एक स्कूल में अंग्रेज़ी पढ़ाता हूँ।
-
-She taught me how to cook.
-उसने मुझे खाना बनाना सिखाया।
-
----
-Sure! Here are the next **10 daily use verbs** numbered from **26 to 35**, with pronunciation, Hindi meaning, and examples (with translations), following your requested format:
-
----
-
-**26. Learn (लर्न)** : सीखना
-**Examples:**
-I want to learn English.
-मैं अंग्रेज़ी सीखना चाहता हूँ।
-
-He is learning to drive a car.
-वह गाड़ी चलाना सीख रहा है।
-
----
-
-**27. Play (प्ले)** : खेलना
-**Examples:**
-Children love to play outside.
-बच्चों को बाहर खेलना बहुत पसंद है।
-
-She plays the guitar very well.
-वह बहुत अच्छा गिटार बजाती है।
-
----
-
-**28. Laugh (लाफ़)** : हँसना
-**Examples:**
-They laughed at the joke.
-वे मज़ाक पर हँस पड़े।
-
-She always makes me laugh.
-वह मुझे हमेशा हँसाती है।
-
----
-
-**29. Cry (क्राइ)** : रोना
-**Examples:**
-The baby is crying loudly.
-बच्चा ज़ोर-ज़ोर से रो रहा है।
-
-She cried after watching the sad movie.
-दुखद फ़िल्म देखने के बाद वह रो पड़ी।
-
----
-
-**30. Open (ओपन)** : खोलना
-**Examples:**
-Open your books to page 10.
-अपनी किताबें खोलो, पेज नंबर 10 पर।
-
-He opened the gift slowly.
-उसने धीरे-धीरे तोहफ़ा खोला।
-
----
-
-**31. Close (क्लोज़)** : बंद करना
-**Examples:**
-Close the door, please.
-दरवाज़ा बंद कर दो, कृपया।
-
-She closed her eyes.
-उसने अपनी आँखें बंद कर लीं।
-
----
-
-**32. Answer (आंसर)** : उत्तर देना
-**Examples:**
-Please answer my question.
-कृपया मेरे सवाल का जवाब दो।
-
-He answered all the questions correctly.
-उसने सभी सवालों के सही उत्तर दिए।
-
----
-
-**33. Ask (आस्क)** : पूछना
-**Examples:**
-Can I ask you something?
-क्या मैं तुमसे कुछ पूछ सकता हूँ?
-
-She asked a very good question.
-उसने बहुत अच्छा सवाल पूछा।
-
----
-
-**34. Wait (वेट)** : इंतज़ार करना
-**Examples:**
-Wait for me at the gate.
-गेट पर मेरा इंतज़ार करना।
-
-We waited for the bus for 30 minutes.
-हमने बस के लिए 30 मिनट इंतज़ार किया।
-
----
-
-**35. Meet (मीट)** : मिलना
-**Examples:**
-I want to meet my friend today.
-मैं आज अपने दोस्त से मिलना चाहता हूँ।
-
-She met him at the cafe yesterday.
-वह कल उससे कैफ़े में मिली थी।
-
----
-Of course! Here's the next set of **10 daily use verbs**, numbered from **36 to 45**, with pronunciation, Hindi meaning, and two examples each (with Hindi translations):
-
----
-
-**36. Talk (टॉक)** : बात करना
-**Examples:**
-We need to talk about this.
-हमें इस बारे में बात करनी चाहिए।
-
-He talked to his teacher politely.
-उसने अपनी टीचर से विनम्रता से बात की।
-
----
-
-**37. Think (थिंक)** : सोचना
-**Examples:**
-I think you are right.
-मुझे लगता है कि तुम सही हो।
-
-She is thinking about her future.
-वह अपने भविष्य के बारे में सोच रही है।
-
----
-
-**38. Make (मे़क)** : बनाना
-**Examples:**
-I will make tea for you.
-मैं तुम्हारे लिए चाय बनाऊँगा।
-
-She made a beautiful painting.
-उसने एक खूबसूरत पेंटिंग बनाई।
-
----
-
-**39. Forget (फॉर्गेट)** : भूलना
-**Examples:**
-Don’t forget to bring your ID card.
-अपना आईडी कार्ड लाना मत भूलना।
-
-He forgot my birthday.
-वह मेरा जन्मदिन भूल गया।
-
----
-
-**40. Remember (रिमेंबर)** : याद रखना
-**Examples:**
-Remember to lock the door.
-दरवाज़ा बंद करना याद रखना।
-
-I remember everything you said.
-मुझे तुम्हारी कही हर बात याद है।
-
----
-
-**41. Move (मूव)** : हिलना / चलाना
-**Examples:**
-Please move the chair a little.
-कृपया कुर्सी को थोड़ा हिला दो।
-
-He moved to a new city.
-वह एक नए शहर में चला गया।
-
----
-
-**42. Stay (स्टे)** : रुकना / ठहरना
-**Examples:**
-Can you stay here for a while?
-क्या तुम थोड़ी देर यहीं रुक सकते हो?
-
-We stayed at a hotel near the beach.
-हम समुंदर के पास एक होटल में ठहरे थे।
-
----
-
-**43. Start (स्टार्ट)** : शुरू करना
-**Examples:**
-Let’s start the meeting.
-आओ मीटिंग शुरू करें।
-
-He started learning French.
-उसने फ्रेंच सीखना शुरू किया।
-
----
-
-**44. Finish (फिनिश)** : खत्म करना
-**Examples:**
-I will finish my work soon.
-मैं जल्दी अपना काम खत्म कर लूंगा।
-
-She finished her homework before dinner.
-उसने रात के खाने से पहले अपना होमवर्क खत्म कर लिया।
-
----
-
-**45. Ride (राइड)** : सवारी करना / चलाना
-**Examples:**
-I ride my bicycle to school.
-मैं स्कूल साइकिल से जाता हूँ।
-
-He rode a horse in the village.
-उसने गाँव में घोड़े की सवारी की।
-
----
-
-Certainly! Here are the next **10 daily use verbs**, numbered from **46 to 55**, with pronunciation, Hindi meaning, and two examples each with Hindi translations:
-
----
-
-**46. Jump (जम्प)** : कूदना
-**Examples:**
-The kids are jumping on the bed.
-बच्चे बिस्तर पर कूद रहे हैं।
-
-He jumped over the wall.
-वह दीवार के ऊपर से कूदा।
-
----
-
-**47. Clean (क्लीन)** : साफ़ करना
-**Examples:**
-Please clean your room.
-कृपया अपना कमरा साफ़ करो।
-
-She cleaned the kitchen in the morning.
-उसने सुबह रसोई साफ़ की।
-
----
-
-**48. Brush (ब्रश)** : ब्रश करना / साफ़ करना
-**Examples:**
-I brush my teeth twice a day.
-मैं दिन में दो बार अपने दाँत ब्रश करता हूँ।
-
-He brushed the dust off the table.
-उसने मेज़ से धूल झाड़ी।
-
----
-
-**49. Pull (पुल)** : खींचना
-**Examples:**
-Please pull the door to open it.
-कृपया दरवाज़ा खोलने के लिए खींचो।
-
-He pulled the rope tightly.
-उसने रस्सी को ज़ोर से खींचा।
-
----
-
-**50. Push (पुश)** : धक्का देना
-**Examples:**
-Push the door to open it.
-दरवाज़ा खोलने के लिए धक्का दो।
-
-He pushed the box under the table.
-उसने डिब्बे को मेज़ के नीचे धकेल दिया।
-
----
-
-**51. Wash (वॉश)** : धोना
-**Examples:**
-Wash your hands before eating.
-खाने से पहले अपने हाथ धोओ।
-
-She washed her clothes on Sunday.
-उसने रविवार को अपने कपड़े धोए।
-
----
-
-**52. Hold (होल्ड)** : पकड़ना
-**Examples:**
-Hold my hand while crossing the road.
-सड़क पार करते समय मेरा हाथ पकड़ो।
-
-He held the baby carefully.
-उसने बच्चे को ध्यान से पकड़ा।
-
----
-
-**53. Break (ब्रेक)** : तोड़ना
-**Examples:**
-Don’t break the glass.
-काँच मत तोड़ो।
-
-He broke his phone by mistake.
-उसने गलती से अपना फोन तोड़ दिया।
-
----
-
-**54. Carry (कैरी)** : उठाना / ले जाना
-**Examples:**
-Can you carry this bag for me?
-क्या तुम यह बैग मेरे लिए उठा सकते हो?
-
-She carried the baby in her arms.
-वह बच्चे को गोद में उठाकर ले गई।
-
----
-
-**55. Grow (ग्रो)** : बढ़ना / उगना
-**Examples:**
-Children grow very fast.
-बच्चे बहुत तेज़ी से बढ़ते हैं।
-
-They grow vegetables in their garden.
-वे अपने बगीचे में सब्ज़ियाँ उगाते हैं।
-
----
-Sure! Here's the next set of **10 daily use verbs**, numbered from **56 to 65**, with pronunciation, Hindi meaning, verb forms (V1 - V2 - V3 - V4), and two example sentences with Hindi translations:
-
----
-
-**56. Sing (सिंग) : गाना**
-**Sing - Sang - Sung - Singing**
-
-**Examples:**
-She sings beautifully.
-वह बहुत सुंदर गाती है।
-
-He sang a song at the party.
-उसने पार्टी में एक गाना गाया।
-
----
-
-**57. Dance (डान्स) : नाचना**
-**Dance - Danced - Danced - Dancing**
-
-**Examples:**
-I love to dance at weddings.
-मुझे शादियों में नाचना पसंद है।
-
-They danced all night.
-वे सारी रात नाचे।
-
----
-
-**58. Cook (कुक) : पकाना / खाना बनाना**
+**11. Cook (कुक)** : पकाना
 **Cook - Cooked - Cooked - Cooking**
 
-**Examples:**
-I cook dinner every evening.
-मैं हर शाम खाना बनाता हूँ।
+Examples:
+I am cooking dinner. मैं रात का खाना बना रहा हूँ।
 
-She cooked delicious food for us.
-उसने हमारे लिए स्वादिष्ट खाना पकाया।
+She cooks very well. वह बहुत अच्छा खाना बनाती है।
 
 ---
 
-**59. Draw (ड्रॉ) : चित्र बनाना / खींचना**
-**Draw - Drew - Drawn - Drawing**
+**12. Allure (अलूर)** : ललचाना / लुभाना
+**Allure - Allured - Allured - Alluring**
 
-**Examples:**
-Can you draw a tree?
-क्या तुम पेड़ बना सकते हो?
+Examples:
+The smell of food allured me. खाने की खुशबू ने मुझे ललचा दिया।
 
-He drew a beautiful picture.
-उसने एक सुंदर चित्र बनाया।
+Ice cream allures children. आइसक्रीम बच्चों को लुभाती है।
 
 ---
 
-**60. Read (रीड) : पढ़ना**
-**Read - Read - Read - Reading** *(Note: All forms spelled the same, but past tense is pronounced “रेड”)*
+**13. Blow (ब्लो)** : फूंक मारना
+**Blow - Blew - Blown - Blowing**
 
-**Examples:**
-I read books every night.
-मैं हर रात किताबें पढ़ता हूँ।
+Examples:
+Blow out the candles. मोमबत्तियाँ फूंक मारकर बुझाओ।
 
-She read the entire novel in a day.
-उसने एक दिन में पूरा उपन्यास पढ़ लिया।
+He blew on his hands to warm them. उसने हाथ गर्म करने के लिए फूंक मारी।
 
 ---
 
-**61. Write (राइट) : लिखना**
-**Write - Wrote - Written - Writing**
+**14. Stick (स्टिक)** : चिपकाना
+**Stick - Stuck - Stuck - Sticking**
 
-**Examples:**
-I write in my diary daily.
-मैं रोज़ अपनी डायरी में लिखता हूँ।
+Examples:
+Stick this poster on the wall. यह पोस्टर दीवार पर चिपका दो।
 
-He wrote a letter to his friend.
-उसने अपने दोस्त को एक चिट्ठी लिखी।
+The label is stuck firmly. लेबल मजबूती से चिपका है।
 
 ---
 
-**62. Ride (राइड) : सवारी करना / चलाना**
-**Ride - Rode - Ridden - Riding**
+**15. Rub (रब)** : रगड़ना / घिसना
+**Rub - Rubbed - Rubbed - Rubbing**
 
-**Examples:**
-I ride my bike to school.
-मैं स्कूल बाइक से जाता हूँ।
+Examples:
+Don’t rub your eyes. अपनी आँखें मत रगड़ो।
 
-She rode a horse on the beach.
-उसने समुद्र किनारे घोड़े की सवारी की।
+Rub the cloth gently. कपड़े को हल्के से रगड़ो।
 
 ---
 
-**63. Sleep (स्लीप) : सोना**
-**Sleep - Slept - Slept - Sleeping**
+**16. Drag (ड्रैग)** : घसीटना
+**Drag - Dragged - Dragged - Dragging**
 
-**Examples:**
-I sleep for 8 hours every day.
-मैं हर दिन 8 घंटे सोता हूँ।
+Examples:
+Don’t drag the chair. कुर्सी मत घसीटो।
 
-He slept early last night.
-वह कल रात जल्दी सो गया।
+He dragged the box outside. उसने बॉक्स बाहर घसीटा।
 
 ---
 
-**64. Buy (बाय) : खरीदना**
-**Buy - Bought - Bought - Buying**
-
-**Examples:**
-I buy groceries on Sundays.
-मैं रविवार को किराने का सामान खरीदता हूँ।
-
-She bought a new dress.
-उसने एक नई ड्रेस खरीदी।
-
----
-
-**65. Sell (सेल) : बेचना**
-**Sell - Sold - Sold - Selling**
-
-**Examples:**
-They sell fresh fruits here.
-यहाँ ताज़े फल बेचे जाते हैं।
-
-He sold his old laptop.
-उसने अपना पुराना लैपटॉप बेच दिया।
-
----
-
-Of course! Here's the next set of **10 daily use verbs**, numbered from **66 to 75**, with **pronunciation**, **Hindi meaning**, **verb forms (V1 - V2 - V3 - V4)**, and **two example sentences** with Hindi translations:
-
----
-
-**66. Find (फाइंड) : ढूंढ़ना / पाना**
-**Find - Found - Found - Finding**
-
-**Examples:**
-I can’t find my keys.
-मैं अपनी चाबियाँ नहीं ढूंढ़ पा रहा हूँ।
-
-She found her lost ring.
-उसे अपनी खोई हुई अंगूठी मिल गई।
-
----
-
-**67. Lose (लूज़) : खोना / हार जाना**
-**Lose - Lost - Lost - Losing**
-
-**Examples:**
-Don’t lose your phone again.
-फिर से अपना फोन मत खो देना।
-
-We lost the match yesterday.
-हम कल का मैच हार गए।
-
----
-
-**68. Win (विन) : जीतना**
-**Win - Won - Won - Winning**
-
-**Examples:**
-I want to win this competition.
-मैं यह प्रतियोगिता जीतना चाहता हूँ।
-
-Our team won the game.
-हमारी टीम ने खेल जीत लिया।
-
----
-
-**69. Begin (बिगिन) : शुरू करना**
-**Begin - Began - Begun - Beginning**
-
-**Examples:**
-Let’s begin the meeting.
-चलिए मीटिंग शुरू करते हैं।
-
-She began to cry suddenly.
-वह अचानक रोने लगी।
-
----
-
-**70. End (एंड) : समाप्त करना / खत्म होना**
-**End - Ended - Ended - Ending**
-
-**Examples:**
-The movie ended late.
-फिल्म देर से खत्म हुई।
-
-Let’s end this discussion now.
-चलिए अब इस चर्चा को समाप्त करते हैं।
-
----
-
-**71. Throw (थ्रो) : फेंकना**
-**Throw - Threw - Thrown - Throwing**
-
-**Examples:**
-Don’t throw garbage on the road.
-सड़क पर कचरा मत फेंको।
-
-He threw the ball far.
-उसने गेंद दूर फेंकी।
-
----
-
-**72. Catch (कैच) : पकड़ना**
-**Catch - Caught - Caught - Catching**
-
-**Examples:**
-Catch the ball!
-गेंद पकड़ो!
-
-She caught the train on time.
-वह समय पर ट्रेन पकड़ पाई।
-
----
-
-**73. Cut (कट) : काटना**
-**Cut - Cut - Cut - Cutting**
-
-**Examples:**
-Be careful while cutting vegetables.
-सब्ज़ी काटते समय सावधान रहो।
-
-He cut the paper with scissors.
-उसने कागज़ को कैंची से काटा।
-
----
-
-**74. Build (बिल्ड) : बनाना / निर्माण करना**
-**Build - Built - Built - Building**
-
-**Examples:**
-They are building a new house.
-वे एक नया घर बना रहे हैं।
-
-He built a strong team.
-उसने एक मजबूत टीम बनाई।
-
----
-
-**75. Break (ब्रेक) : तोड़ना**
-**Break - Broke - Broken - Breaking**
-
-**Examples:**
-Don’t break the rules.
-नियमों को मत तोड़ो।
-
-He broke the glass by mistake.
-उससे गलती से काँच टूट गया।
-
----
-Certainly! Here's the next set of **10 daily use verbs**, numbered from **76 to 85**, including **pronunciation**, **Hindi meaning**, **verb forms (V1 - V2 - V3 - V4)**, and **examples with Hindi translations**:
-
----
-
-**76. Hide (हाइड) : छुपाना / छिपना**
-**Hide - Hid - Hidden - Hiding**
-
-**Examples:**
-Children love to hide during games.
-बच्चों को खेल में छुपना बहुत पसंद है।
-
-He hid the gift under the bed.
-उसने तोहफ़ा बिस्तर के नीचे छुपा दिया।
-
----
-
-**77. Shake (शेक) : हिलाना / झकझोरना**
-**Shake - Shook - Shaken - Shaking**
-
-**Examples:**
-Shake the bottle before use.
-इस्तेमाल से पहले बोतल को हिलाओ।
-
-He shook hands with everyone.
-उसने सभी से हाथ मिलाया।
-
----
-
-**78. Burn (बर्न) : जलाना / जलना**
-**Burn - Burned/Burnt - Burned/Burnt - Burning**
-
-**Examples:**
-Don’t burn the paper.
-काग़ज़ मत जलाओ।
-
-The fire burned all night.
-आग सारी रात जलती रही।
-
----
-
-**79. Fall (फॉल) : गिरना**
+**17. Fall (फॉल)** : गिरना
 **Fall - Fell - Fallen - Falling**
 
-**Examples:**
-Be careful, don’t fall.
-सावधान रहो, गिर मत जाना।
+Examples:
+The knife fell on the floor. चाकू फर्श पर गिर गया।
 
-He fell off the ladder.
-वह सीढ़ी से गिर गया।
+Be careful or you will fall. सावधान रहो वरना गिर जाओगे।
 
 ---
 
-**80. Rise (राइज़) : उठना / बढ़ना**
-**Rise - Rose - Risen - Rising**
+**18. Drop (ड्रॉप)** : गिराना
+**Drop - Dropped - Dropped - Dropping**
 
-**Examples:**
-The sun rises in the east.
-सूरज पूर्व में उगता है।
+Examples:
+He dropped the glass. उसने गिलास गिरा दिया।
 
-Prices have risen recently.
-हाल ही में कीमतें बढ़ गई हैं।
+Don’t drop your phone. अपना फोन मत गिराओ।
 
 ---
 
-**81. Sit (सिट) : बैठना**
-**Sit - Sat - Sat - Sitting**
+**19. Dip (डिप)** : डुबोना
+**Dip - Dipped - Dipped - Dipping**
 
-**Examples:**
-Please sit on the chair.
-कृपया कुर्सी पर बैठिए।
+Examples:
+Dip the biscuit in tea. बिस्कुट को चाय में डुबोओ।
 
-He sat beside me.
-वह मेरे बगल में बैठा।
+Don’t dip your finger in the water. पानी में उंगली मत डुबाओ।
 
 ---
 
-**82. Stand (स्टैंड) : खड़ा होना**
-**Stand - Stood - Stood - Standing**
+**20. Dive (डाइव)** : डुबकी लगाना
+**Dive - Dived/Dove - Dived - Diving**
 
-**Examples:**
-Stand here for a while.
-थोड़ी देर यहाँ खड़े रहो।
+Examples:
+He dived into the river. उसने नदी में डुबकी लगाई।
 
-She stood near the door.
-वह दरवाज़े के पास खड़ी थी।
+We dive here every summer. हम यहाँ हर गर्मियों में डुबकी लगाते हैं।
 
 ---
 
-**83. Wear (वेयर) : पहनना**
-**Wear - Wore - Worn - Wearing**
+**21. Drown (ड्राउन)** : डूबना
+**Drown - Drowned - Drowned - Drowning**
 
-**Examples:**
-I wear casual clothes at home.
-मैं घर पर आरामदायक कपड़े पहनता हूँ।
+Examples:
+He drowned in the river. वह नदी में डूब गया।
 
-She wore a beautiful dress.
-उसने एक सुंदर ड्रेस पहनी थी।
+The man was drowning. वह आदमी डूब रहा था।
 
 ---
 
-**84. Tear (टेअर) : फाड़ना**
-**Tear - Tore - Torn - Tearing**
+**22. Dig (डिग)** : खोदना
+**Dig - Dug - Dug - Digging**
 
-**Examples:**
-Don’t tear the pages.
-पन्ने मत फाड़ो।
+Examples:
+Dig a pit here. यहाँ एक गड्ढा खोदो।
 
-He tore the paper in anger.
-उसने गुस्से में काग़ज़ फाड़ दिया।
+They dug the ground. उन्होंने जमीन खोदी।
 
 ---
 
-**85. Draw (ड्रॉ) : चित्र बनाना / खींचना**
-**Draw - Drew - Drawn - Drawing**
+**23. Peep (पीप)** : झांकना
+**Peep - Peeped - Peeped - Peeping**
 
-**Examples:**
-The child loves to draw animals.
-बच्चे को जानवरों के चित्र बनाना पसंद है।
+Examples:
+Don’t peep through the window. खिड़की से मत झांको।
 
-She drew a house with crayons.
-उसने क्रेयॉन्स से एक घर बनाया।
+He was peeping inside. वह अंदर झांक रहा था।
 
 ---
 
-Absolutely! Here are the next 10 daily use verbs, numbered 86 to 95, with pronunciation, Hindi meaning, verb forms, and examples with Hindi translations:
+**24. Creep (क्रीप)** : रेंगना
+**Creep - Crept - Crept - Creeping**
+
+Examples:
+The snake is creeping. साँप रेंग रहा है।
+
+The baby crept on the floor. बच्चा फर्श पर रेंगा।
 
 ---
 
-**86. Pay (पे)** : भुगतान करना
-**Pay - Paid - Paid - Paying**
+**25. Lend (लेंड)** : उधार देना
+**Lend - Lent - Lent - Lending**
 
-**Examples:**
-Please pay the bill at the counter.
-कृपया काउंटर पर बिल का भुगतान करें।
+Examples:
+Lend me some money. मुझे कुछ पैसे उधार दो।
 
-He paid for the groceries yesterday.
-उसने कल किराने का सामान का भुगतान किया।
+I lent him my bike. मैंने उसे अपनी बाइक उधार दी।
 
 ---
 
-**87. Meet (मीट)** : मिलना
-**Meet - Met - Met - Meeting**
+**26. Borrow (बॉरो)** : उधार लेना
+**Borrow - Borrowed - Borrowed - Borrowing**
 
-**Examples:**
-I will meet you tomorrow.
-मैं तुमसे कल मिलूँगा।
+Examples:
+I borrowed money from him. मैंने उससे पैसे उधार लिए।
 
-They met at the park yesterday.
-वे कल पार्क में मिले थे।
+Don’t borrow too much. ज्यादा उधार मत लो।
 
 ---
 
-**88. Send (सेंड)** : भेजना
-**Send - Sent - Sent - Sending**
+**27. Assess (असेस)** : परखना / आकलन करना
+**Assess - Assessed - Assessed - Assessing**
 
-**Examples:**
-Please send me the documents.
-कृपया मुझे दस्तावेज़ भेजो।
+Examples:
+The teacher assessed my work. शिक्षक ने मेरा काम परखा।
 
-She sent a letter to her friend.
-उसने अपने दोस्त को चिट्ठी भेजी।
+We need to assess the situation. हमें स्थिति का आकलन करना चाहिए।
 
 ---
 
-**89. Receive (रिसीव)** : प्राप्त करना
-**Receive - Received - Received - Receiving**
-
-**Examples:**
-I received your message.
-मुझे आपका संदेश मिला।
-
-They received the package yesterday.
-उन्होंने कल पैकेज प्राप्त किया।
-
----
-
-**90. Wait (वेट)** : इंतज़ार करना
-**Wait - Waited - Waited - Waiting**
-
-**Examples:**
-Please wait for me here.
-कृपया यहाँ मेरा इंतज़ार करो।
-
-We waited for an hour.
-हमने एक घंटा इंतज़ार किया।
-
----
-
-**91. Speak (स्पीक)** : बोलना
+**28. Speak / Talk (स्पीक / टॉक)** : बात करना
 **Speak - Spoke - Spoken - Speaking**
+**Talk - Talked - Talked - Talking**
 
-**Examples:**
-She speaks three languages.
-वह तीन भाषाएँ बोलती है।
+Examples:
+Speak with him once. उससे एक बार बात करो।
 
-He spoke to the manager yesterday.
-उसने कल मैनेजर से बात की।
-
----
-
-**92. Travel (ट्रैवल)** : यात्रा करना
-**Travel - Traveled / Travelled - Traveled / Travelled - Traveling**
-
-**Examples:**
-I love to travel abroad.
-मुझे विदेश यात्रा करना पसंद है।
-
-They traveled to Delhi last month.
-वे पिछले महीने दिल्ली गए थे।
+Talk to me later. मुझसे बाद में बात करो।
 
 ---
 
-**93. Teach (टीच)** : सिखाना / पढ़ाना
-**Teach - Taught - Taught - Teaching**
+**29. Wake up (वेक अप)** : जगना / जगाना
+**Wake up - Woke up - Woken up - Waking up**
 
-**Examples:**
-He teaches math at school.
-वह स्कूल में गणित पढ़ाता है।
+Examples:
+I woke up at 5 am. मैं 5 बजे जागा।
 
-She taught me how to swim.
-उसने मुझे तैरना सिखाया।
+Wake up your brother. अपने भाई को जगा दो।
 
 ---
 
-**94. Learn (लर्न)** : सीखना
-**Learn - Learned / Learnt - Learned / Learnt - Learning**
+**30. Get up (गेट अप)** : बिस्तर से उठना
+**Get up - Got up - Got up - Getting up**
 
-**Examples:**
-I am learning English.
-मैं अंग्रेज़ी सीख रहा हूँ।
+Examples:
+Get up early. जल्दी उठो।
 
-She learned to cook last year.
-उसने पिछले साल खाना बनाना सीखा।
+I got up late today. मैं आज देर से उठा।
 
 ---
 
-**95. Understand (अंडरस्टैंड)** : समझना
-**Understand - Understood - Understood - Understanding**
+**31. Become (बिकम)** : बनना
+**Become - Became - Become - Becoming**
 
-**Examples:**
-Do you understand the question?
-क्या आप सवाल को समझते हैं?
+Examples:
+I want to become a doctor. मैं डॉक्टर बनना चाहता हूँ।
 
-He understood the lesson well.
-उसने अच्छी तरह से पाठ समझा।
+He became famous. वह प्रसिद्ध हो गया।
 
 ---
 
-Sure! Here are the next 10 daily use verbs, numbered from **96 to 105**, with pronunciation, Hindi meaning, verb forms, and examples with Hindi translations:
-
----
-
-**96. Choose (चूज़)** : चुनना
-**Choose - Chose - Chosen - Choosing**
-
-**Examples:**
-Please choose a book to read.
-कृपया पढ़ने के लिए एक किताब चुनो।
-
-She chose the red dress.
-उसने लाल ड्रेस चुनी।
-
----
-
-**97. Fall (फॉल)** : गिरना
-**Fall - Fell - Fallen - Falling**
-
-**Examples:**
-Be careful not to fall.
-सावधान रहो, मत गिरो।
-
-Leaves fell from the tree.
-पेड़ से पत्ते गिर गए।
-
----
-
-**98. Grow (ग्रो)** : बढ़ना / उगना
-**Grow - Grew - Grown - Growing**
-
-**Examples:**
-Plants grow faster in sunlight.
-पौधे धूप में जल्दी बढ़ते हैं।
-
-He has grown a lot this year.
-वह इस साल बहुत बढ़ गया है।
-
----
-
-**99. Hit (हिट)** : मारना
-**Hit - Hit - Hit - Hitting**
-
-**Examples:**
-Don’t hit your brother.
-अपने भाई को मत मारो।
-
-He hit the ball very hard.
-उसने गेंद को बहुत ज़ोर से मारा।
-
----
-
-**100. Hold (होल्ड)** : पकड़ना
-**Hold - Held - Held - Holding**
-
-**Examples:**
-Hold my hand while crossing the road.
-सड़क पार करते समय मेरा हाथ पकड़ो।
-
-She held the baby carefully.
-उसने बच्चे को सावधानी से पकड़ा।
-
----
-
-**101. Leave (लीव)** : छोड़ना / छोड़कर जाना
-**Leave - Left - Left - Leaving**
-
-**Examples:**
-Please leave your shoes at the door.
-कृपया अपने जूते दरवाज़े पर छोड़ दो।
-
-He left the office early yesterday.
-वह कल जल्दी ऑफिस छोड़कर चला गया।
-
----
-
-**102. Lose (लूज़)** : खोना
-**Lose - Lost - Lost - Losing**
-
-**Examples:**
-Don’t lose your wallet.
-अपना बटुआ मत खोना।
-
-She lost the game by one point.
-वह एक पॉइंट से खेल हार गई।
-
----
-
-**103. Make (मेक)** : बनाना
+**32. Make (मेक)** : बनाना
 **Make - Made - Made - Making**
 
-**Examples:**
-I make breakfast every morning.
-मैं हर सुबह नाश्ता बनाता हूँ।
+Examples:
+Who made this cake? यह केक किसने बनाया?
 
-She made a cake for the party.
-उसने पार्टी के लिए केक बनाया।
+She is making tea. वह चाय बना रही है।
 
 ---
 
-**104. Meet (मीट)** : मिलना
-**Meet - Met - Met - Meeting**
+**33. Cut / Chop (कट / चॉप)** : काटना
+**Cut - Cut - Cut - Cutting**
+**Chop - Chopped - Chopped - Chopping**
 
-**Examples:**
-I will meet my friend tomorrow.
-मैं कल अपने दोस्त से मिलूंगा।
+Examples:
+Cut the paper carefully. कागज ध्यान से काटो।
 
-They met at the cafe yesterday.
-वे कल कैफ़े में मिले थे।
-
----
-
-**105. Put (पुट)** : रखना / डालना
-**Put - Put - Put - Putting**
-
-**Examples:**
-Put the book on the table.
-किताब मेज़ पर रखो।
-
-He put his phone in his bag.
-उसने अपना फोन बैग में रखा।
+Mom is chopping onions. मम्मी प्याज काट रही हैं।
 
 ---
 
-**106. Read (रीड)** : पढ़ना
-**Read - Read - Read - Reading**
-*(Note: Past tense pronounced "रेड")*
+**34. Bite (बाइट)** : दाँत से काटना
+**Bite - Bit - Bitten - Biting**
 
-**Examples:**
-I read a book every night.
-मैं हर रात एक किताब पढ़ता हूँ।
+Examples:
+The dog bit him. कुत्ते ने उसे काट लिया।
 
-She read the letter carefully.
-उसने पत्र ध्यान से पढ़ा।
+Don’t bite your nails. अपने नाखून मत काटो (दाँत से)।
 
 ---
 
-**107. Run (रन)** : दौड़ना
-**Run - Ran - Run - Running**
+**35. Swell (स्वेल)** : सूजना
+**Swell - Swelled - Swollen - Swelling**
 
-**Examples:**
-He runs fast in the race.
-वह दौड़ में तेज दौड़ता है।
+Examples:
+My hand has swollen. मेरा हाथ सूज गया है।
 
-They ran to catch the bus.
-वे बस पकड़ने के लिए दौड़े।
+The body swells after an insect bite. कीड़े के काटने से शरीर सूज जाता है।
 
 ---
 
-**108. Say (से)** : कहना
-**Say - Said - Said - Saying**
+**36. Bend (बेंड)** : मोड़ना / मुड़ना
+**Bend - Bent - Bent - Bending**
 
-**Examples:**
-What did you say?
-तुमने क्या कहा?
+Examples:
+He bent the rod easily. उसने रॉड आसानी से मोड़ दी।
 
-She said she will come soon.
-उसने कहा कि वह जल्द आएगी।
+Don’t bend this wire. इस तार को मत मोड़ो।
 
 ---
 
-**109. See (सी)** : देखना
-**See - Saw - Seen - Seeing**
+**37. Bow (बाउ)** : झुकना
+**Bow - Bowed - Bowed - Bowing**
 
-**Examples:**
-I see a bird on the tree.
-मैं पेड़ पर एक पक्षी देखता हूँ।
+Examples:
+He bowed before the teacher. वह शिक्षक के सामने झुका।
 
-He saw a movie last night.
-उसने कल रात एक फिल्म देखी।
+You will have to bow a little. तुम्हें थोड़ा झुकना पड़ेगा।
 
 ---
 
-**110. Sell (सेल)** : बेचना
-**Sell - Sold - Sold - Selling**
+**38. Cheat (चीट)** : धोखा देना
+**Cheat - Cheated - Cheated - Cheating**
 
-**Examples:**
-They sell fresh fruits in the market.
-वे बाजार में ताज़े फल बेचते हैं।
+Examples:
+Don’t cheat me. मुझे धोखा मत दो।
 
-She sold her old car.
-उसने अपनी पुरानी कार बेच दी।
+He cheated on his friend. उसने अपने दोस्त को धोखा दिया।
 
 ---
 
-**111. Send (सेंड)** : भेजना
-**Send - Sent - Sent - Sending**
+**39. Mislead (मिसलीड)** : गुमराह करना
+**Mislead - Misled - Misled - Misleading**
 
-**Examples:**
-Please send me the report.
-कृपया मुझे रिपोर्ट भेजो।
+Examples:
+The shopkeeper misled him. दुकानदार ने उसे गुमराह किया।
 
-He sent an email yesterday.
-उसने कल ईमेल भेजा।
+Don’t mislead the public. जनता को गुमराह मत करो।
 
 ---
 
-**112. Sit (सिट)** : बैठना
-**Sit - Sat - Sat - Sitting**
-
-**Examples:**
-Please sit here.
-कृपया यहाँ बैठो।
-
-They sat together at the park.
-वे पार्क में साथ में बैठे।
-
----
-
-**113. Sleep (स्लीप)** : सोना
-**Sleep - Slept - Slept - Sleeping**
-
-**Examples:**
-I sleep for eight hours daily.
-मैं रोज़ आठ घंटे सोता हूँ।
-
-She slept early last night.
-वह कल रात जल्दी सो गई।
-
----
-
-**114. Speak (स्पीक)** : बोलना
-**Speak - Spoke - Spoken - Speaking**
-
-**Examples:**
-He speaks three languages.
-वह तीन भाषाएँ बोलता है।
-
-She spoke to the teacher.
-उसने शिक्षक से बात की।
-
----
-
-**115. Stand (स्टैंड)** : खड़ा होना
-**Stand - Stood - Stood - Standing**
-
-**Examples:**
-Please stand in a queue.
-कृपया कतार में खड़े हो जाओ।
-
-He stood near the door.
-वह दरवाज़े के पास खड़ा था।
-
----
-Absolutely! Here are the next 10 daily use verbs, numbered **116 to 125**, with pronunciation, Hindi meaning, verb forms, and examples with Hindi translations:
-
----
-
-**116. Start (स्टार्ट)** : शुरू करना / शुरू होना
-**Start - Started - Started - Starting**
-
-**Examples:**
-The class starts at 9 AM.
-क्लास सुबह 9 बजे शुरू होती है।
-
-She started a new job last week.
-उसने पिछले सप्ताह नई नौकरी शुरू की।
-
----
-
-**117. Stop (स्टॉप)** : रुकना / रोकना
-**Stop - Stopped - Stopped - Stopping**
-
-**Examples:**
-Please stop talking.
-कृपया बात करना बंद करो।
-
-The bus stopped at the signal.
-बस सिग्नल पर रुकी।
-
----
-
-**118. Take (टेक)** : लेना
-**Take - Took - Taken - Taking**
-
-**Examples:**
-Please take a seat.
-कृपया बैठ जाओ।
-
-He took the book from the table.
-उसने मेज़ से किताब ली।
-
----
-
-**119. Talk (टॉक)** : बात करना
-**Talk - Talked - Talked - Talking**
-
-**Examples:**
-We talked for hours.
-हम घंटों बात करते रहे।
-
-She talked to her friend on the phone.
-उसने फोन पर अपने दोस्त से बात की।
-
----
-
-**120. Tell (टेल)** : बताना
-**Tell - Told - Told - Telling**
-
-**Examples:**
-Please tell me the truth.
-कृपया मुझे सच बताओ।
-
-He told a funny story.
-उसने एक मज़ेदार कहानी सुनाई।
-
----
-
-**121. Think (थिंक)** : सोचना
-**Think - Thought - Thought - Thinking**
-
-**Examples:**
-I think it will rain today.
-मुझे लगता है आज बारिश होगी।
-
-She thought about the problem.
-उसने समस्या के बारे में सोचा।
-
----
-
-**122. Try (ट्राय)** : कोशिश करना
-**Try - Tried - Tried - Trying**
-
-**Examples:**
-I will try to finish my work.
-मैं अपना काम खत्म करने की कोशिश करूंगा।
-
-She tried to open the door.
-उसने दरवाज़ा खोलने की कोशिश की।
-
----
-
-**123. Use (यूज़)** : इस्तेमाल करना
-**Use - Used - Used - Using**
-
-**Examples:**
-Please use this pen.
-कृपया इस पेन का इस्तेमाल करो।
-
-He used a dictionary to learn words.
-उसने शब्द सीखने के लिए शब्दकोश का इस्तेमाल किया।
-
----
-
-**124. Wait (वेट)** : इंतज़ार करना
-**Wait - Waited - Waited - Waiting**
-
-**Examples:**
-Wait for me outside.
-मेरे लिए बाहर इंतजार करो।
-
-They waited for the bus.
-उन्होंने बस का इंतजार किया।
-
----
-
-**125. Work (वर्क)** : काम करना
-**Work - Worked - Worked - Working**
-
-**Examples:**
-I work from 9 to 5.
-मैं 9 से 5 बजे तक काम करता हूँ।
-
-She worked hard for the exam.
-उसने परीक्षा के लिए कड़ी मेहनत की।
-
----
-
-Sure! Here are the next 10 daily use verbs, numbered **126 to 135**, with pronunciation, Hindi meaning, verb forms, and examples with Hindi translations:
-
----
-
-**126. Help (हेल्प)** : मदद करना
-**Help - Helped - Helped - Helping**
-
-**Examples:**
-Can you help me with this?
-क्या तुम मेरी इसमें मदद कर सकते हो?
-
-She helped her mother in the kitchen.
-उसने अपनी माँ की रसोई में मदद की।
-
----
-
-**127. Open (ओपन)** : खोलना
-**Open - Opened - Opened - Opening**
-
-**Examples:**
-Please open the window.
-कृपया खिड़की खोलो।
-
-He opened the door slowly.
-उसने दरवाज़ा धीरे-धीरे खोला।
-
----
-
-**128. Close (क्लोज़)** : बंद करना
-**Close - Closed - Closed - Closing**
-
-**Examples:**
-Close the door, please.
-दरवाज़ा बंद कर दो, कृपया।
-
-She closed her eyes.
-उसने अपनी आँखें बंद कर लीं।
-
----
-
-**129. Clean (क्लीन)** : साफ़ करना
-**Clean - Cleaned - Cleaned - Cleaning**
-
-**Examples:**
-I clean my room every day.
-मैं हर दिन अपना कमरा साफ़ करता हूँ।
-
-They cleaned the house before guests arrived.
-मेहमानों के आने से पहले उन्होंने घर साफ़ किया।
-
----
-
-**130. Cook (कुक)** : खाना बनाना
-**Cook - Cooked - Cooked - Cooking**
-
-**Examples:**
-My mother cooks delicious food.
-मेरी माँ स्वादिष्ट खाना बनाती हैं।
-
-He cooked dinner last night.
-उसने कल रात खाना बनाया।
-
----
-
-**131. Drive (ड्राइव)** : गाड़ी चलाना
-**Drive - Drove - Driven - Driving**
-
-**Examples:**
-I drive to work every day.
-मैं रोज़ काम पर गाड़ी चलाकर जाता हूँ।
-
-She drove fast on the highway.
-उसने हाईवे पर तेज़ गाड़ी चलाई।
-
----
-
-**132. Listen (लिसन)** : सुनना
-**Listen - Listened - Listened - Listening**
-
-**Examples:**
-Please listen carefully.
-कृपया ध्यान से सुनो।
-
-They listened to music all evening.
-उन्होंने पूरी शाम संगीत सुना।
-
----
-
-**133. Move (मूव)** : हिलना / स्थान बदलना
-**Move - Moved - Moved - Moving**
-
-**Examples:**
-Please move your chair.
-कृपया अपनी कुर्सी हटा दो।
-
-He moved to a new city last year.
-वह पिछले साल एक नए शहर में गया।
-
----
-
-**134. Play (प्ले)** : खेलना
-**Play - Played - Played - Playing**
-
-**Examples:**
-Children love to play outside.
-बच्चे बाहर खेलना पसंद करते हैं।
-
-She played the piano beautifully.
-उसने पियानो बहुत सुंदर बजाया।
-
----
-
-**135. Talk (टॉक)** : बात करना
-**Talk - Talked - Talked - Talking**
-
-**Examples:**
-We talked about the project.
-हमने प्रोजेक्ट के बारे में बात की।
-
-He talked to the teacher after class.
-उसने क्लास के बाद शिक्षक से बात की।
-
----
-
-Of course! Here are the next 10 daily use verbs, numbered **136 to 145**, with pronunciation, Hindi meaning, verb forms, and examples with Hindi translations:
-
----
-
-**136. Travel (ट्रैवल)** : यात्रा करना
-**Travel - Traveled / Travelled - Traveled / Travelled - Traveling**
-
-**Examples:**
-I love to travel to new places.
-मुझे नए स्थानों की यात्रा करना पसंद है।
-
-They traveled to Mumbai last summer.
-वे पिछले गर्मियों में मुंबई गए थे।
-
----
-
-**137. Watch (वॉच)** : देखना
-**Watch - Watched - Watched - Watching**
-
-**Examples:**
-I watch TV every evening.
-मैं हर शाम टीवी देखता हूँ।
-
-She watched a movie last night.
-उसने कल रात एक फ़िल्म देखी।
-
----
-
-**138. Win (विन)** : जीतना
-**Win - Won - Won - Winning**
-
-**Examples:**
-Our team won the match.
-हमारी टीम ने मैच जीता।
-
-He won a prize in the competition.
-उसने प्रतियोगिता में पुरस्कार जीता।
-
----
-
-**139. Write (राइट)** : लिखना
-**Write - Wrote - Written - Writing**
-
-**Examples:**
-She writes poems beautifully.
-वह सुंदर कविताएँ लिखती है।
-
-He wrote a letter to his friend.
-उसने अपने दोस्त को एक पत्र लिखा।
-
----
-
-**140. Cry (क्राय)** : रोना
-**Cry - Cried - Cried - Crying**
-
-**Examples:**
-The baby is crying.
-बच्चा रो रहा है।
-
-She cried when she heard the news.
-उसने खबर सुनकर रोया।
-
----
-
-**141. Dance (डांस)** : नाचना
-**Dance - Danced - Danced - Dancing**
-
-**Examples:**
-They dance every weekend.
-वे हर सप्ताहांत नाचते हैं।
-
-She danced gracefully at the party.
-उसने पार्टी में खूबसूरती से नाचा।
-
----
-
-**142. Fall (फॉल)** : गिरना
-**Fall - Fell - Fallen - Falling**
-
-**Examples:**
-Be careful not to fall.
-सावधान रहो कि मत गिरो।
-
-Leaves fall in autumn.
-पतझड़ में पत्ते गिरते हैं।
-
----
-
-**143. Help (हेल्प)** : मदद करना
-**Help - Helped - Helped - Helping**
-
-**Examples:**
-Can you help me?
-क्या आप मेरी मदद कर सकते हैं?
-
-He helped her with the homework.
-उसने उसे होमवर्क में मदद की।
-
----
-
-**144. Jump (जंप)** : कूदना
-**Jump - Jumped - Jumped - Jumping**
-
-**Examples:**
-The kids jump on the trampoline.
-बच्चे ट्रैम्पोलिन पर कूदते हैं।
-
-She jumped over the fence.
-वह बाड़ के ऊपर से कूद गई।
-
----
-
-**145. Laugh (लाफ)** : हँसना
-**Laugh - Laughed - Laughed - Laughing**
-
-**Examples:**
-We laughed at the joke.
-हम उस मज़ाक़ पर हँसे।
-
-He always laughs loudly.
-वह हमेशा ज़ोर से हँसता है।
-
----
-
-Sure! Here are the next 10 daily use verbs, numbered **146 to 155**, with pronunciation, Hindi meaning, verb forms, and examples with Hindi translations:
-
----
-
-**146. Begin (बिगिन)** : शुरू करना
-**Begin - Began - Begun - Beginning**
-
-**Examples:**
-The meeting will begin at 10 AM.
-मीटिंग सुबह 10 बजे शुरू होगी।
-
-She began to study English last year.
-उसने पिछले साल अंग्रेज़ी पढ़ना शुरू किया।
-
----
-
-**147. Borrow (बॉरो)** : उधार लेना
-**Borrow - Borrowed - Borrowed - Borrowing**
-
-**Examples:**
-Can I borrow your pen?
-क्या मैं तुम्हारा पेन उधार ले सकता हूँ?
-
-He borrowed some money from his friend.
-उसने अपने दोस्त से कुछ पैसे उधार लिए।
-
----
-
-**148. Break (ब्रेक)** : तोड़ना
-**Break - Broke - Broken - Breaking**
-
-**Examples:**
-Be careful not to break the glass.
-ध्यान रखो कि कांच मत टूटे।
-
-She broke her phone yesterday.
-उसका फोन कल टूट गया।
-
----
-
-**149. Bring (ब्रिंग)** : लाना
-**Bring - Brought - Brought - Bringing**
-
-**Examples:**
-Please bring your books to class.
-कृपया अपनी किताबें क्लास में लाओ।
-
-He brought snacks for everyone.
-उसने सबके लिए नाश्ता लाया।
-
----
-
-**150. Catch (कैच)** : पकड़ना
-**Catch - Caught - Caught - Catching**
-
-**Examples:**
-Can you catch the ball?
-क्या तुम गेंद पकड़ सकते हो?
-
-He caught the train just in time.
-वह ठीक समय पर ट्रेन पकड़ गया।
-
----
-
-**151. Choose (चूज)** : चुनना
-**Choose - Chose - Chosen - Choosing**
-
-**Examples:**
-Choose the best answer.
-सबसे अच्छा उत्तर चुनो।
-
-She chose a beautiful dress.
-उसने एक सुंदर कपड़ा चुना।
-
----
-
-**152. Clean (क्लीन)** : साफ़ करना
-**Clean - Cleaned - Cleaned - Cleaning**
-
-**Examples:**
-I clean my room every day.
-मैं अपना कमरा रोज़ साफ़ करता हूँ।
-
-They cleaned the house before the guests arrived.
-उन्होंने मेहमानों के आने से पहले घर साफ़ किया।
-
----
-
-**153. Close (क्लोज़)** : बंद करना
-**Close - Closed - Closed - Closing**
-
-**Examples:**
-Please close the door.
-कृपया दरवाज़ा बंद करो।
-
-She closed her eyes for a moment.
-उसने कुछ देर के लिए अपनी आँखें बंद कीं।
-
----
-
-**154. Come (कम)** : आना
+**40. Come (कम)** : आना
 **Come - Came - Come - Coming**
 
-**Examples:**
-Please come here.
-कृपया यहाँ आओ।
+Examples:
+He comes home at 6. वह 6 बजे घर आता है।
 
-He came late to the meeting.
-वह मीटिंग में देर से आया।
+Come here quickly. यहाँ जल्दी आओ।
 
 ---
 
-**155. Cook (कुक)** : खाना बनाना
-**Cook - Cooked - Cooked - Cooking**
-
-**Examples:**
-My mother cooks delicious food.
-मेरी माँ स्वादिष्ट खाना बनाती हैं।
-
-He cooked dinner last night.
-उसने कल रात खाना बनाया।
-
----
-
-Certainly! Here are the next 10 daily use verbs, numbered **156 to 165**, with pronunciation, Hindi meaning, verb forms, and examples with Hindi translations:
-
----
-
-**156. Dance (डांस)** : नाचना
-**Dance - Danced - Danced - Dancing**
-
-**Examples:**
-They dance every weekend.
-वे हर सप्ताहांत नाचते हैं।
-
-She danced beautifully at the party.
-उसने पार्टी में बहुत सुंदर नाचा।
-
----
-
-**157. Drive (ड्राइव)** : गाड़ी चलाना
-**Drive - Drove - Driven - Driving**
-
-**Examples:**
-I drive to work every day.
-मैं रोज़ काम पर गाड़ी चलाता हूँ।
-
-She drove to the market yesterday.
-वह कल बाजार गई।
-
----
-
-**158. Eat (ईट)** : खाना
-**Eat - Ate - Eaten - Eating**
-
-**Examples:**
-I eat breakfast at 8 AM every day.
-मैं रोज़ सुबह 8 बजे नाश्ता करता हूँ।
-
-She doesn’t eat junk food.
-वह जंक फूड नहीं खाती।
-
----
-
-**159. Explain (एक्सप्लेन)** : समझाना
-**Explain - Explained - Explained - Explaining**
-
-**Examples:**
-Please explain the lesson again.
-कृपया फिर से पाठ समझाओ।
-
-He explained the rules clearly.
-उसने नियम साफ़ साफ़ समझाए।
-
----
-
-**160. Feel (फील)** : महसूस करना
-**Feel - Felt - Felt - Feeling**
-
-**Examples:**
-I feel happy today.
-मैं आज खुश महसूस कर रहा हूँ।
-
-She felt cold after the rain.
-बारिश के बाद उसे ठंड लगी।
-
----
-
-**161. Find (फाइंड)** : ढूँढना
-**Find - Found - Found - Finding**
-
-**Examples:**
-I can’t find my keys.
-मुझे अपनी चाबियाँ नहीं मिल रही हैं।
-
-He found a wallet on the street.
-उसने सड़क पर एक बटुआ पाया।
-
----
-
-**162. Forget (फॉरगेट)** : भूलना
-**Forget - Forgot - Forgotten - Forgetting**
-
-**Examples:**
-Don’t forget your homework.
-अपना होमवर्क मत भूलो।
-
-She forgot his birthday.
-वह उसका जन्मदिन भूल गई।
-
----
-
-**163. Get (गेट)** : पाना / लेना
-**Get - Got - Got / Gotten - Getting**
-
-**Examples:**
-I get a lot of emails daily.
-मुझे रोज़ बहुत सारे ईमेल आते हैं।
-
-He got a new job last month.
-उसे पिछले महीने नई नौकरी मिली।
-
----
-
-**164. Give (गिव)** : देना
-**Give - Gave - Given - Giving**
-
-**Examples:**
-Please give me your pen.
-कृपया मुझे अपनी पेन दो।
-
-She gave him a gift.
-उसने उसे एक तोहफ़ा दिया।
-
----
-
-**165. Go (गो)** : जाना
+**41. Go (गो)** : जाना
 **Go - Went - Gone - Going**
 
-**Examples:**
-I go to school by bus.
-मैं बस से स्कूल जाता हूँ।
+Examples:
+Where are you going? तुम कहाँ जा रहे हो?
 
-They went to the park yesterday.
-वे कल पार्क गए थे।
+I went to the market. मैं बाजार गया था।
 
 ---
 
-Certainly! Here are the next 10 daily use verbs, numbered **166 to 175**, with pronunciation, Hindi meaning, verb forms, and examples with Hindi translations:
+**42. Take (टेक)** : ले जाना
+**Take - Took - Taken - Taking**
+
+Examples:
+Take him to the hospital. उसे अस्पताल ले जाओ।
+
+Please take this bag home. यह बैग घर ले जाओ।
 
 ---
 
-**166. Grow (ग्रो)** : बढ़ना / उगना
-**Grow - Grew - Grown - Growing**
+**43. Take (टेक)** : लेना
+**Take - Took - Taken - Taking**
 
-**Examples:**
-Children grow very fast.
-बच्चे बहुत तेज़ी से बढ़ते हैं।
+Examples:
+Take money from your brother. अपने भाई से पैसे ले लो।
 
-They grow vegetables in their garden.
-वे अपने बगीचे में सब्ज़ियाँ उगाते हैं।
+I took his pen. मैंने उसका पेन ले लिया।
 
 ---
 
-**167. Hear (हियर)** : सुनना
-**Hear - Heard - Heard - Hearing**
+**45. Give (गिव)** : देना
+**Give - Gave - Given - Giving**
 
-**Examples:**
-I hear birds singing in the morning.
-मैं सुबह पक्षियों को गाते हुए सुनता हूँ।
+Examples:
+Give me ₹100. मुझे ₹100 दे दो।
 
-She heard a strange noise last night.
-उसने कल रात अजीब आवाज़ सुनी।
+She gave me a gift. उसने मुझे एक गिफ्ट दिया।
 
 ---
 
-**168. Hold (होल्ड)** : पकड़ना
-**Hold - Held - Held - Holding**
-
-**Examples:**
-Please hold my bag.
-कृपया मेरा बैग पकड़ो।
-
-He held the baby gently.
-उसने बच्चे को धीरे से पकड़ रखा था।
-
----
-
-**169. Keep (कीप)** : रखना
-**Keep - Kept - Kept - Keeping**
-
-**Examples:**
-Keep your room clean.
-अपना कमरा साफ़ रखो।
-
-She kept the secret for years.
-उसने वर्षों तक रहस्य रखा।
-
----
-
-**170. Know (नो)** : जानना
-**Know - Knew - Known - Knowing**
-
-**Examples:**
-I know the answer.
-मुझे जवाब पता है।
-
-He knew her from school.
-वह उसे स्कूल से जानता था।
-
----
-
-**171. Leave (लीव)** : छोड़ना / जाना
-**Leave - Left - Left - Leaving**
-
-**Examples:**
-Please leave the room quietly.
-कृपया कमरे से धीरे से निकलो।
-
-They left early yesterday.
-वे कल जल्दी निकल गए।
-
----
-
-**172. Like (लाईक)** : पसंद करना
-**Like - Liked - Liked - Liking**
-
-**Examples:**
-I like chocolate.
-मुझे चॉकलेट पसंद है।
-
-She liked the movie very much.
-उसे फिल्म बहुत पसंद आई।
-
----
-
-**173. Listen (लिसन)** : सुनना
-**Listen - Listened - Listened - Listening**
-
-**Examples:**
-Listen to the teacher carefully.
-ध्यान से शिक्षक की बात सुनो।
-
-They listened to music all night.
-उन्होंने पूरी रात संगीत सुना।
-
----
-
-**174. Live (लिव)** : जीना / रहना
-**Live - Lived - Lived - Living**
-
-**Examples:**
-I live in Delhi.
-मैं दिल्ली में रहता हूँ।
-
-She lived in Mumbai for five years.
-वह मुंबई में पाँच साल रही।
-
----
-
-**175. Look (लुक)** : देखना
-**Look - Looked - Looked - Looking**
-
-**Examples:**
-Look at the sky.
-आसमान को देखो।
-
-He looked at me and smiled.
-उसने मेरी तरफ देखा और मुस्कुराया।
-
----
-
-Got it! Here are 10 more daily use verbs, numbered **176 to 185**, without any repeats:
-
----
-
-**176. Move (मूव)** : हिलना / स्थान बदलना
-**Move - Moved - Moved - Moving**
-
-**Examples:**
-Please move your chair.
-कृपया अपनी कुर्सी हटा दो।
-
-They moved to a new house last year.
-वे पिछले साल नए घर में गए।
-
----
-
-**177. Offer (ऑफ़र)** : प्रस्तावित करना / देना
-**Offer - Offered - Offered - Offering**
-
-**Examples:**
-He offered help to the elderly man.
-उसने बुजुर्ग व्यक्ति को मदद की पेशकश की।
-
-They offered me a job at their company.
-उन्होंने मुझे अपनी कंपनी में नौकरी की पेशकश की।
-
----
-
-**178. Pass (पास)** : पार करना / देना
-**Pass - Passed - Passed - Passing**
-
-**Examples:**
-Please pass me the salt.
-कृपया मुझे नमक दो।
-
-She passed the exam with good marks.
-उसने परीक्षा अच्छे नंबरों से पास की।
-
----
-
-**179. Receive (रिसीव)** : प्राप्त करना
-**Receive - Received - Received - Receiving**
-
-**Examples:**
-I received your letter yesterday.
-मुझे कल तुम्हारा पत्र मिला।
-
-They received a warm welcome.
-उन्हें गर्मजोशी से स्वागत किया गया।
-
----
-
-**180. Return (रिटर्न)** : वापस आना / लौटना
-**Return - Returned - Returned - Returning**
-
-**Examples:**
-She returned home late last night.
-वह कल रात देर से घर लौटी।
-
-Please return the book to the library.
-कृपया किताब पुस्तकालय को वापस करें।
-
----
-
-**181. Sell (सेल)** : बेचना
-**Sell - Sold - Sold - Selling**
-
-**Examples:**
-He sells vegetables in the market.
-वह बाजार में सब्ज़ियाँ बेचता है।
-
-They sold their old car last month.
-उन्होंने पिछले महीने अपनी पुरानी कार बेची।
-
----
-
-**182. Send (सेंड)** : भेजना
-**Send - Sent - Sent - Sending**
-
-**Examples:**
-Please send me the documents.
-कृपया मुझे दस्तावेज़ भेजो।
-
-She sent a gift to her friend.
-उसने अपने दोस्त को एक तोहफ़ा भेजा।
-
----
-
-**183. Show (शो)** : दिखाना
-**Show - Showed - Shown / Showed - Showing**
-
-**Examples:**
-Can you show me the way?
-क्या आप मुझे रास्ता दिखा सकते हैं?
-
-He showed his photos to everyone.
-उसने सबको अपनी तस्वीरें दिखाई।
-
----
-
-**184. Stay (स्टे)** : रहना
-**Stay - Stayed - Stayed - Staying**
-
-**Examples:**
-We stay at a hotel during vacations.
-हम छुट्टियों में होटल में रहते हैं।
-
-She stayed at her friend’s house last night.
-वह कल रात अपने दोस्त के घर रुकी।
-
----
-
-**185. Teach (टीच)** : पढ़ाना
-**Teach - Taught - Taught - Teaching**
-
-**Examples:**
-He teaches math to students.
-वह छात्रों को गणित पढ़ाता है।
-
-She taught me how to cook.
-उसने मुझे खाना बनाना सिखाया।
-
----
-
-Absolutely! Here are the next 10 daily use verbs, numbered **186 to 195**, with pronunciation, Hindi meaning, verb forms, and examples with Hindi translations:
-
----
-
-**186. Tell (टेल)** : बताना
-**Tell - Told - Told - Telling**
-
-**Examples:**
-Please tell me the truth.
-कृपया मुझे सच बताओ।
-
-He told a funny story.
-उसने एक मज़ेदार कहानी बताई।
-
----
-
-**187. Think (थिंक)** : सोचना
-**Think - Thought - Thought - Thinking**
-
-**Examples:**
-I think it will rain today.
-मुझे लगता है आज बारिश होगी।
-
-She thought about the problem carefully.
-उसने समस्या के बारे में ध्यान से सोचा।
-
----
-
-**188. Try (ट्राय)** : कोशिश करना
-**Try - Tried - Tried - Trying**
-
-**Examples:**
-I will try to finish the work today.
-मैं आज काम खत्म करने की कोशिश करूंगा।
-
-She tried to open the door.
-उसने दरवाज़ा खोलने की कोशिश की।
-
----
-
-**189. Understand (अंडरस्टैंड)** : समझना
-**Understand - Understood - Understood - Understanding**
-
-**Examples:**
-Do you understand the lesson?
-क्या तुम पाठ को समझते हो?
-
-He understood the instructions clearly.
-उसने निर्देशों को स्पष्ट रूप से समझा।
-
----
-
-**190. Use (यूज)** : उपयोग करना
-**Use - Used - Used - Using**
-
-**Examples:**
-I use my phone for studying.
-मैं पढ़ाई के लिए अपना फोन इस्तेमाल करता हूँ।
-
-She used a dictionary to learn new words.
-उसने नए शब्द सीखने के लिए शब्दकोश का उपयोग किया।
-
----
-
-**191. Wait (वेट)** : इंतज़ार करना
-**Wait - Waited - Waited - Waiting**
-
-**Examples:**
-Please wait for me.
-कृपया मेरा इंतज़ार करो।
-
-They waited for the bus at the stop.
-वे बस के लिए स्टॉप पर इंतज़ार कर रहे थे।
-
----
-
-**192. Walk (वॉक)** : चलना
+**46. Walk (वॉक)** : पैदल चलना / घूमना
 **Walk - Walked - Walked - Walking**
 
-**Examples:**
-I walk to school every day.
-मैं रोज़ स्कूल पैदल जाता हूँ।
+Examples:
+I go for a walk daily. मैं रोज टहलने जाता हूँ।
 
-She walked home after the party.
-वह पार्टी के बाद घर चली।
+Walk slowly. धीरे चलो।
 
 ---
 
-**193. Want (वांट)** : चाहना
-**Want - Wanted - Wanted - Wanting**
+**47. Run (रन)** : दौड़ना
+**Run - Ran - Run - Running**
 
-**Examples:**
-I want a cup of tea.
-मैं एक कप चाय चाहता हूँ।
+Examples:
+He runs 5 km daily. वह रोज 5 किमी दौड़ता है।
 
-He wanted to buy a new bike.
-वह नई बाइक खरीदना चाहता था।
+Run fast. तेज दौड़ो।
 
 ---
 
-**194. Work (वर्क)** : काम करना
-**Work - Worked - Worked - Working**
+**48. Say (से)** : कहना
+**Say - Said - Said - Saying**
 
-**Examples:**
-I work from 9 to 5.
-मैं 9 से 5 बजे तक काम करता हूँ।
+Examples:
+Say something. कुछ कहो।
 
-She worked hard to complete the project.
-उसने प्रोजेक्ट पूरा करने के लिए कड़ी मेहनत की।
+He said sorry. उसने सॉरी कहा।
 
 ---
 
-**195. Write (राइट)** : लिखना
-**Write - Wrote - Written - Writing**
+**49. Tell (टेल)** : बताना
+**Tell - Told - Told - Telling**
 
-**Examples:**
-She writes letters to her friends.
-वह अपने दोस्तों को पत्र लिखती है।
+Examples:
+Tell me the truth. मुझे सच बताओ।
 
-He wrote a story for the magazine.
-उसने पत्रिका के लिए एक कहानी लिखी।
+She told me everything. उसने मुझे सब बताया।
 
 ---
 
-Sure! Here are the next 10 daily use verbs, numbered **196 to 205**, with pronunciation, Hindi meaning, verb forms, and examples with Hindi translations:
-
----
-
-**196. Agree (अग्री)** : सहमत होना
-**Agree - Agreed - Agreed - Agreeing**
-
-**Examples:**
-I agree with your opinion.
-मैं आपकी राय से सहमत हूँ।
-
-They agreed to help us.
-उन्होंने हमारी मदद करने के लिए सहमति दी।
-
----
-
-**197. Allow (अलाउ)** : अनुमति देना
-**Allow - Allowed - Allowed - Allowing**
-
-**Examples:**
-They allowed us to enter the park.
-उन्होंने हमें पार्क में प्रवेश करने दिया।
-
-My parents allow me to stay out late.
-मेरे माता-पिता मुझे देर तक बाहर रहने की अनुमति देते हैं।
-
----
-
-**198. Answer (आंसर)** : जवाब देना
-**Answer - Answered - Answered - Answering**
-
-**Examples:**
-Please answer the question.
-कृपया सवाल का जवाब दें।
-
-She answered the phone quickly.
-उसने जल्दी से फोन का जवाब दिया।
-
----
-
-**199. Appear (अपियर)** : प्रकट होना
-**Appear - Appeared - Appeared - Appearing**
-
-**Examples:**
-He appeared suddenly at the door.
-वह अचानक दरवाज़े पर प्रकट हुआ।
-
-A rainbow appeared after the rain.
-बारिश के बाद इंद्रधनुष प्रकट हुआ।
-
----
-
-**200. Arrive (अराइव)** : पहुँचाना / आना
-**Arrive - Arrived - Arrived - Arriving**
-
-**Examples:**
-The train arrives at 6 PM.
-ट्रेन शाम 6 बजे आती है।
-
-We arrived at the hotel late last night.
-हम देर रात होटल पहुंचे।
-
----
-
-**201. Ask (आस्क)** : पूछना
+**50. Ask (आस्क)** : पूछना
 **Ask - Asked - Asked - Asking**
 
-**Examples:**
-Can I ask you a question?
-क्या मैं आपसे एक सवाल पूछ सकता हूँ?
+Examples:
+I am asking you something. मैं तुमसे कुछ पूछ रहा हूँ।
 
-She asked for directions.
-उसने रास्ता पूछा।
+Ask the teacher. शिक्षक से पूछो।
 
 ---
 
-**202. Believe (बिलीव)** : विश्वास करना
-**Believe - Believed - Believed - Believing**
+**51. Bring (ब्रिंग)** : लाना
+**Bring - Brought - Brought - Bringing**
 
-**Examples:**
-I believe in hard work.
-मुझे मेहनत में विश्वास है।
+Examples:
+Bring a glass of water. एक गिलास पानी लाओ।
 
-They believed his story.
-उन्होंने उसकी कहानी पर विश्वास किया।
+He brought a bag from the cupboard. उसने अलमारी से बैग लाया।
 
 ---
 
-**203. Borrow (बॉरो)** : उधार लेना
-**Borrow - Borrowed - Borrowed - Borrowing**
-
-**Examples:**
-I borrowed a book from the library.
-मैंने पुस्तकालय से एक किताब उधार ली।
-
-She borrowed money from her friend.
-उसने अपने दोस्त से पैसा उधार लिया।
-
----
-
-**204. Build (बिल्ड)** : बनाना / निर्माण करना
-**Build - Built - Built - Building**
-
-**Examples:**
-They build houses in the village.
-वे गाँव में मकान बनाते हैं।
-
-He built a model airplane.
-उसने एक मॉडल विमान बनाया।
-
----
-
-**205. Buy (बाय)** : खरीदना
+**52. Buy / Purchase (बाय / परचेज)** : खरीदना
 **Buy - Bought - Bought - Buying**
+**Purchase - Purchased - Purchased - Purchasing**
 
-**Examples:**
-I want to buy a new phone.
-मैं एक नया फोन खरीदना चाहता हूँ।
+Examples:
+He is buying a phone. वह फोन खरीद रहा है।
 
-She bought groceries yesterday.
-उसने कल किराने का सामान खरीदा।
-
----
-
-Sure! Here are the next 10 daily use verbs, numbered **206 to 215**, with pronunciation, Hindi meaning, verb forms, and examples with Hindi translations:
+I purchased a new laptop. मैंने नया लैपटॉप खरीदा।
 
 ---
 
-**206. Call (कॉल)** : कॉल करना / बुलाना
+**53. Sell (सेल)** : बेचना
+**Sell - Sold - Sold - Selling**
+
+Examples:
+I want to sell this house. मैं यह घर बेचना चाहता हूँ।
+
+He sold his car. उसने अपनी कार बेच दी।
+
+---
+
+**54. Do (डू)** : करना
+**Do - Did - Done - Doing**
+
+Examples:
+What are you doing? तुम क्या कर रहे हो?
+
+I did my homework. मैंने अपना होमवर्क किया।
+
+---
+
+**55. Work (वर्क)** : काम करना
+**Work - Worked - Worked - Working**
+
+Examples:
+He is still working. वह अभी भी काम कर रहा है।
+
+I work in an IT company. मैं एक आईटी कंपनी में काम करता हूँ।
+
+---
+
+**56. Call (कॉल)** : बुलाना / फोन करना
 **Call - Called - Called - Calling**
 
-**Examples:**
-I will call you later.
-मैं आपको बाद में कॉल करूंगा।
+Examples:
+Call him here. उसे यहाँ बुलाओ।
 
-She called her friend last night.
-उसने कल रात अपने दोस्त को कॉल किया।
+I will call you later. मैं तुम्हें बाद में फोन करूंगा।
 
 ---
 
-**207. Carry (कैरी)** : ले जाना / उठाना
-**Carry - Carried - Carried - Carrying**
+**57. Know (नो)** : जानना
+**Know - Knew - Known - Knowing**
 
-**Examples:**
-Please carry this bag for me.
-कृपया मेरे लिए यह बैग उठाओ।
+Examples:
+I know you very well. मैं तुम्हें बहुत अच्छी तरह जानता हूँ।
 
-He carried the boxes to the car.
-उसने कार तक डिब्बे ले गए।
+She knew the answer. उसे जवाब पता था।
 
 ---
 
-**208. Change (चेंज)** : बदलना
-**Change - Changed - Changed - Changing**
+**58. See (सी)** : देखना (अपने आप दिख जाना)
+**See - Saw - Seen - Seeing**
 
-**Examples:**
-I want to change my job.
-मैं अपनी नौकरी बदलना चाहता हूँ।
+Examples:
+I can’t see from one eye. मैं एक आँख से नहीं देख सकता।
 
-She changed her dress before the party.
-उसने पार्टी से पहले अपना कपड़ा बदला।
+I saw him yesterday. मैंने उसे कल देखा।
 
 ---
 
-**209. Check (चेक)** : जांचना / देखना
-**Check - Checked - Checked - Checking**
+**59. Look (लुक)** : ध्यान से देखना
+**Look - Looked - Looked - Looking**
 
-**Examples:**
-Please check your answers.
-कृपया अपने उत्तर जांचो।
+Examples:
+Why are you looking at me? तुम मुझे क्यों देख रहे हो?
 
-He checked the time on his watch.
-उसने अपनी घड़ी पर समय देखा।
+Look at the board. बोर्ड की तरफ देखो।
 
 ---
 
-**210. Clean (क्लीन)** : साफ़ करना
-**Clean - Cleaned - Cleaned - Cleaning**
+**60. Watch (वॉच)** : ध्यान से देखना (कुछ समय तक)
+**Watch - Watched - Watched - Watching**
 
-**Examples:**
-I clean my room every day.
-मैं अपना कमरा रोज़ साफ़ करता हूँ।
+Examples:
+Why are you watching TV? तुम टीवी क्यों देख रहे हो?
 
-They cleaned the house before guests arrived.
-उन्होंने मेहमानों के आने से पहले घर साफ़ किया।
+We watched the match. हमने मैच देखा।
 
 ---
 
-**211. Close (क्लोज़)** : बंद करना
+**61. Leave (लीव)** : निकलना / छोड़ना
+**Leave - Left - Left - Leaving**
+
+Examples:
+I am leaving the office. मैं ऑफिस से निकल रहा हूँ।
+
+She left the city. उसने शहर छोड़ दिया।
+
+---
+
+**62. Move (मूव)** : हिलना / हिलाना
+**Move - Moved - Moved - Moving**
+
+Examples:
+Don’t move. मत हिलो।
+
+Move the chair aside. कुर्सी को एक तरफ हिलाओ।
+
+---
+
+**63. Write (राइट)** : लिखना
+**Write - Wrote - Written - Writing**
+
+Examples:
+Write your name here. यहाँ अपना नाम लिखो।
+
+He wrote a letter. उसने एक पत्र लिखा।
+
+---
+
+**64. Read (रीड / रेड)** : पढ़ना
+**Read - Read - Read - Reading**
+(Pronunciation: Present = reed, Past = red)
+
+Examples:
+I like to read at night. मुझे रात में पढ़ना पसंद है।
+
+She read the book. उसने किताब पढ़ी।
+
+---
+
+**65. Think (थिंक)** : सोचना
+**Think - Thought - Thought - Thinking**
+
+Examples:
+What do you think? तुम क्या सोचते हो?
+
+I thought about it. मैंने इसके बारे में सोचा।
+
+---
+
+**66. Sit (सिट)** : बैठना
+**Sit - Sat - Sat - Sitting**
+
+Examples:
+Sit here. यहाँ बैठो।
+
+I sat on the chair. मैं कुर्सी पर बैठा।
+
+---
+
+**67. Stand (स्टैंड)** : खड़ा होना
+**Stand - Stood - Stood - Standing**
+
+Examples:
+Stand up. खड़े हो जाओ।
+
+He stood near the door. वह दरवाजे के पास खड़ा था।
+
+---
+
+**68. Laugh (लाफ)** : हंसना
+**Laugh - Laughed - Laughed - Laughing**
+
+Examples:
+Don’t laugh loudly. जोर से मत हंसो।
+
+They laughed at the joke. वे मजाक पर हंसे।
+
+---
+
+**69. Smile (स्माइल)** : मुस्कुराना
+**Smile - Smiled - Smiled - Smiling**
+
+Examples:
+She smiled at me. वह मुझे देखकर मुस्कुराई।
+
+Keep smiling. मुस्कुराते रहो।
+
+---
+
+**70. Learn (लर्न)** : सीखना
+**Learn - Learned/Learnt - Learned/Learnt - Learning**
+
+Examples:
+I want to learn English. मैं अंग्रेजी सीखना चाहता हूँ।
+
+He learnt driving. उसने ड्राइविंग सीखी।
+
+---
+
+**71. Teach (टीच)** : सिखाना / पढ़ाना
+**Teach - Taught - Taught - Teaching**
+
+Examples:
+I teach English. मैं अंग्रेजी पढ़ाता हूँ।
+
+She taught me maths. उसने मुझे गणित सिखाया।
+
+---
+
+**72. Torture (टॉर्चर)** : अत्याचार करना
+**Torture - Tortured - Tortured - Torturing**
+
+Examples:
+Don’t torture animals. जानवरों पर अत्याचार मत करो।
+
+They tortured the prisoner. उन्होंने कैदी पर अत्याचार किया।
+
+---
+
+**73. Beat (बीट)** : पीटना
+**Beat - Beat - Beaten - Beating**
+
+Examples:
+He beat the thief. उसने चोर को पीटा।
+
+Don’t beat the child. बच्चे को मत पीटो।
+
+---
+
+**74. Scold (स्कोल्ड)** : डांटना
+**Scold - Scolded - Scolded - Scolding**
+
+Examples:
+Papa scolded me. पापा ने मुझे डांटा।
+
+Don’t scold him. उसे मत डांटो।
+
+---
+
+**75. Win (विन)** : जीतना
+**Win - Won - Won - Winning**
+
+Examples:
+India won the match. भारत मैच जीत गया।
+
+We will win. हम जीतेंगे।
+
+---
+
+**76. Lose (लूज़)** : खोना / हारना
+**Lose - Lost - Lost - Losing**
+
+Examples:
+Don’t lose your phone. अपना फोन मत खोना।
+
+He lost the match. वह मैच हार गया।
+
+---
+
+**77. Open (ओपन)** : खोलना
+**Open - Opened - Opened - Opening**
+
+Examples:
+Open the door. दरवाजा खोलो।
+
+The shop opened early. दुकान जल्दी खुली।
+
+---
+
+**78. Close (क्लोज)** : बंद करना
 **Close - Closed - Closed - Closing**
 
-**Examples:**
-Please close the window.
-कृपया खिड़की बंद करो।
+Examples:
+Close the window. खिड़की बंद करो।
 
-She closed the book after reading.
-उसने पढ़ने के बाद किताब बंद की।
+He closed the file. उसने फाइल बंद की।
 
 ---
 
-**212. Compare (कंपेयर)** : तुलना करना
-**Compare - Compared - Compared - Comparing**
+**79. Pain (पेन)** : दर्द होना
+**Pain - Pained - Pained - Paining**
+(⚠️ Usually we say: “My hand is paining” in Indian English; natural English: “My hand hurts.”)
 
-**Examples:**
-Compare your answers with the key.
-अपने उत्तरों की चाबी से तुलना करो।
+Examples:
+My hand is paining. मेरे हाथ में दर्द हो रहा है।
 
-They compared prices before buying.
-उन्होंने खरीदारी से पहले कीमतों की तुलना की।
+His leg was paining badly. उसके पैर में बहुत दर्द हो रहा था।
 
 ---
 
-**213. Complain (कंप्लेन)** : शिकायत करना
+**80. Hurt (हर्ट)** : चोट लगना / दिल दुखाना
+**Hurt - Hurt - Hurt - Hurting**
+
+Examples:
+I got hurt. मुझे चोट लग गई।
+
+Don’t hurt him. उसका दिल मत दुखाओ।
+
+---
+
+**81. Search / Look for (सर्च / लुक फॉर)** : ढूँढना
+**Search - Searched - Searched - Searching**
+**Look for - Looked for - Looked for - Looking for**
+
+Examples:
+I am searching for that paper. मैं उस कागज को ढूँढ रहा हूँ।
+
+I am looking for my keys. मैं अपनी चाबियाँ ढूँढ रहा हूँ।
+
+---
+
+**82. Ascribe (अस्क्राइब)** : श्रेय देना
+**Ascribe - Ascribed - Ascribed - Ascribing**
+
+Examples:
+He ascribed his success to his parents. उसने अपनी सफलता का श्रेय अपने माता-पिता को दिया।
+
+Don’t ascribe it to luck. इसका श्रेय किस्मत को मत दो।
+
+---
+
+**83. Blame (ब्लेम)** : दोष देना
+**Blame - Blamed - Blamed - Blaming**
+
+Examples:
+Don’t blame me. मुझे दोष मत दो।
+
+He blamed me for the mistake. उसने गलती का दोष मुझे दिया।
+
+---
+
+**84. Allege (अलेज)** : आरोप लगाना
+**Allege - Alleged - Alleged - Alleging**
+
+Examples:
+The lawyer alleged fraud. वकील ने धोखाधड़ी का आरोप लगाया।
+
+They alleged him in the case. उन्होंने उस पर आरोप लगाया।
+
+---
+
+**85. Learn (लर्न)** : याद करना
+**Learn - Learned/Learnt - Learned/Learnt - Learning**
+
+Examples:
+Learn this chapter. यह चैप्टर याद करो।
+
+I learnt the poem. मैंने कविता याद की।
+
+---
+
+**86. Remember (रिमेम्बर)** : याद रखना
+**Remember - Remembered - Remembered - Remembering**
+
+Examples:
+Remember me. मुझे याद रखना।
+
+Remember to call me. मुझे फोन करना याद रखना।
+
+---
+
+**87. Apologize (अपॉलोजाइज़)** : माफी मांगना
+**Apologize - Apologized - Apologized - Apologizing**
+
+Examples:
+I apologize for that day. मैं उस दिन के लिए माफी मांगता हूँ।
+
+He apologized to me. उसने मुझसे माफी मांगी।
+
+---
+
+**88. Forgive (फॉरगिव)** : माफ कर देना
+**Forgive - Forgave - Forgiven - Forgiving**
+
+Examples:
+Forgive me. मुझे माफ कर दो।
+
+She forgave him. उसने उसे माफ कर दिया।
+
+---
+
+**89. Succeed (सक्सीड)** : सफल होना
+**Succeed - Succeeded - Succeeded - Succeeding**
+
+Examples:
+He succeeded in life. वह जीवन में सफल हुआ।
+
+You will succeed. तुम सफल हो जाओगे।
+
+---
+
+**90. Break (ब्रेक)** : तोड़ना
+**Break - Broke - Broken - Breaking**
+
+Examples:
+He broke the pot. उसने गमला तोड़ दिया।
+
+Don’t break the glass. गिलास मत तोड़ो।
+
+---
+
+**91. Marry (मैरी)** : शादी करना
+**Marry - Married - Married - Marrying**
+
+Examples:
+He is marrying Anjali. वह अंजलि से शादी कर रहा है।
+
+She married last year. उसने पिछले साल शादी की।
+
+---
+
+**92. Threaten (थ्रेटन)** : धमकी देना
+**Threaten - Threatened - Threatened - Threatening**
+
+Examples:
+He was threatening me. वह मुझे धमकी दे रहा था।
+
+Don’t threaten anyone. किसी को धमकी मत दो।
+
+---
+
+**93. Suggest (सजेस्ट)** : सुझाव देना
+**Suggest - Suggested - Suggested - Suggesting**
+
+Examples:
+He suggested a new plan. उसने नया प्लान सुझाया।
+
+I suggest you wait. मैं तुम्हें इंतजार करने की सलाह देता हूँ।
+
+---
+
+**94. Shiver (शिवर)** : कांपना
+**Shiver - Shivered - Shivered - Shivering**
+
+Examples:
+He was shivering with cold. वह ठंड से कांप रहा था।
+
+The child shivered in fear. बच्चा डर से कांप गया।
+
+---
+
+**95. Impose (इम्पोज)** : थोपना
+**Impose - Imposed - Imposed - Imposing**
+
+Examples:
+The boss imposed extra work on me. बॉस ने मुझ पर अतिरिक्त काम थोप दिया।
+
+Don’t impose your views. अपने विचार मत थोपो।
+
+---
+
+**96. Rip off (रिप ऑफ)** : चालाकी से लूटना / ठगना
+**Rip off - Ripped off - Ripped off - Ripping off**
+
+Examples:
+The salesman ripped me off. सेल्समैन ने मुझे ठग लिया।
+
+Don’t rip off customers. ग्राहकों को मत ठगो।
+
+---
+
+**97. Rob (रॉब)** : लूटना (गैर-कानूनी)
+**Rob - Robbed - Robbed - Robbing**
+
+Examples:
+The gang robbed the bank. गैंग ने बैंक लूट लिया।
+
+They robbed him at night. उन्होंने उसे रात में लूट लिया।
+
+---
+
+**98. Bring up (ब्रिंग अप)** : पालन-पोषण करना
+**Bring up - Brought up - Brought up - Bringing up**
+
+Examples:
+My parents brought me up well. मेरे माता-पिता ने मेरा अच्छा पालन-पोषण किया।
+
+They are bringing up two children. वे दो बच्चों का पालन-पोषण कर रहे हैं।
+
+---
+
+**99. Lisp (लिस्प)** : तुतलाना
+**Lisp - Lisped - Lisped - Lisping**
+
+Examples:
+The child lisps while speaking. बच्चा बोलते समय तुतलाता है।
+
+He lisped the word. उसने शब्द तुतलाकर बोला।
+
+---
+
+**100. Stammer (स्टैमर)** : हकलाना
+**Stammer - Stammered - Stammered - Stammering**
+
+Examples:
+He stammers while talking. वह बात करते समय हकलाता है।
+
+Don’t laugh if someone stammers. अगर कोई हकलाए तो मत हंसो।
+
+---
+
+**1. Whisper (व्हिस्पर)** : फुसफुसाना
+**Whisper - Whispered - Whispered - Whispering**
+
+Examples:
+She whispered in my ear. उसने मेरे कान में फुसफुसाया।
+
+Don’t whisper in class. क्लास में फुसफुसाओ मत।
+
+---
+
+**2. Mumble (मम्बल)** : बड़बड़ाना
+**Mumble - Mumbled - Mumbled - Mumbling**
+
+Examples:
+He was mumbling in his sleep. वह नींद में बड़बड़ा रहा था।
+
+Speak clearly, don’t mumble. साफ बोलो, बड़बड़ाओ मत।
+
+---
+
+**3. Gasp (गैस्प)** : हाँफना
+**Gasp - Gasped - Gasped - Gasping**
+
+Examples:
+He was gasping for breath. वह सांस के लिए हाँफ रहा था।
+
+She gasped in shock. वह सदमे में हाँफ उठी।
+
+---
+
+**4. Worship (वर्शिप)** : पूजा करना
+**Worship - Worshipped/Worshiped - Worshipped/Worshiped - Worshipping**
+
+Examples:
+We worship Lord Shiva daily. हम रोज भगवान शिव की पूजा करते हैं।
+
+They worship the sun. वे सूर्य की पूजा करते हैं।
+
+---
+
+**5. Rain (रेन)** : बारिश होना
+**Rain - Rained - Rained - Raining**
+
+Examples:
+It is raining heavily. तेज बारिश हो रही है।
+
+It rained yesterday. कल बारिश हुई।
+
+---
+
+**6. Hail (हेल)** : ओले पड़ना
+**Hail - Hailed - Hailed - Hailing**
+
+Examples:
+It is hailing in the hills. पहाड़ों में ओले पड़ रहे हैं।
+
+It hailed last night. कल रात ओले पड़े।
+
+---
+
+**7. Snow (स्नो)** : बर्फ पड़ना
+**Snow - Snowed - Snowed - Snowing**
+
+Examples:
+It will snow today. आज बर्फ पड़ेगी।
+
+It snowed in the mountains. पहाड़ों में बर्फ पड़ी।
+
+---
+
+**8. Squeeze (स्क्वीज़)** : निचोड़ना
+**Squeeze - Squeezed - Squeezed - Squeezing**
+
+Examples:
+Squeeze the lemon. नींबू निचोड़ो।
+
+He squeezed the bottle. उसने बोतल निचोड़ी।
+
+---
+
+**9. Wring (रिंग)** : मरोड़ना
+**Wring - Wrung - Wrung - Wringing**
+
+Examples:
+She wrung the cloth. उसने कपड़ा मरोड़ा।
+
+Don’t wring my hand. मेरा हाथ मत मरोड़ो।
+
+---
+
+**10. Overrun (ओवररन)** : कुचल देना (वाहन से)
+**Overrun - Overran - Overrun - Overrunning**
+
+Examples:
+The car overran the cat. कार ने बिल्ली को कुचल दिया।
+
+He was overrun by a truck. उसे ट्रक ने कुचल दिया।
+
+---
+
+**11. Grind (ग्राइंड)** : पीसना
+**Grind - Ground - Ground - Grinding**
+
+Examples:
+Grind all the spices together. सारे मसाले एक साथ पीस दो।
+
+She is grinding ginger. वह अदरक पीस रही है।
+
+---
+
+**12. Crush (क्रश)** : कुचलना / पिचका देना
+**Crush - Crushed - Crushed - Crushing**
+
+Examples:
+He crushed the tomatoes. उसने टमाटर पिचका दिए।
+
+Don’t crush the flowers. फूल मत कुचलो।
+
+---
+
+**13. Sneeze (स्नीज़)** : छींकना
+**Sneeze - Sneezed - Sneezed - Sneezing**
+
+Examples:
+He started sneezing. उसे छींक आनी शुरू हो गई।
+
+Don’t sneeze without covering your mouth. बिना मुंह ढके मत छींकें।
+
+---
+
+**14. Avenge / Revenge (अवेंज / रिवेंज)** : बदला लेना
+**Avenge - Avenged - Avenged - Avenging**
+**Revenge - Revenged - Revenged - Revenging**
+
+Examples:
+I will avenge this insult. मैं इस अपमान का बदला लूंगा।
+
+He revenged his brother. उसने अपने भाई का बदला लिया।
+
+---
+
+**15. Appreciate / Admire (एप्रिशिएट / एडमायर)** : प्रशंसा करना
+**Appreciate - Appreciated - Appreciated - Appreciating**
+**Admire - Admired - Admired - Admiring**
+
+Examples:
+I appreciate your help. मैं आपकी मदद की सराहना करता हूँ।
+
+Everyone admires her talent. सब उसकी प्रतिभा की प्रशंसा करते हैं।
+
+---
+
+**16. Tear (टियर)** : फाड़ना
+**Tear - Tore - Torn - Tearing**
+
+Examples:
+Don’t tear the paper. कागज मत फाड़ो।
+
+He tore the letter. उसने चिट्ठी फाड़ दी।
+
+---
+
+**17. Weep / Cry (वीप / क्राय)** : रोना
+**Weep - Wept - Wept - Weeping**
+**Cry - Cried - Cried - Crying**
+
+Examples:
+The baby is crying. बच्चा रो रहा है।
+
+She wept silently. वह चुपचाप रोई।
+
+---
+
+**18. Scream (स्क्रीम)** : चीखना
+**Scream - Screamed - Screamed - Screaming**
+
+Examples:
+Don’t scream loudly. जोर से मत चीखो।
+
+She screamed in fear. वह डर से चीखी।
+
+---
+
+**19. Wear (वेयर)** : पहनना
+**Wear - Wore - Worn - Wearing**
+
+Examples:
+I love wearing black jeans. मुझे काली जींस पहनना पसंद है।
+
+He wore a blue shirt. उसने नीली शर्ट पहनी।
+
+---
+
+**20. Thank (थैंक)** : धन्यवाद देना
+**Thank - Thanked - Thanked - Thanking**
+
+Examples:
+I want to thank you. मैं आपको धन्यवाद देना चाहता हूँ।
+
+She thanked me. उसने मुझे धन्यवाद दिया।
+
+---
+
+**21. Touch (टच)** : छूना
+**Touch - Touched - Touched - Touching**
+
+Examples:
+Don’t touch this wire. इस तार को मत छुओ।
+
+He touched my shoulder. उसने मेरे कंधे को छुआ।
+
+---
+
+**22. Hold (होल्ड)** : पकड़ना
+**Hold - Held - Held - Holding**
+
+Examples:
+Hold the box properly. बॉक्स को ठीक से पकड़ो।
+
+She held my hand. उसने मेरा हाथ पकड़ा।
+
+---
+
+**23. Clench (क्लेंच)** : जकड़ना / कसकर पकड़ना
+**Clench - Clenched - Clenched - Clenching**
+
+Examples:
+He clenched my arm tightly. उसने मेरा हाथ कसकर जकड़ लिया।
+
+Clench your fists. अपनी मुट्ठियाँ भींचो।
+
+---
+
+**24. Hang (हैंग)** : लटकना / लटकाना
+**Hang - Hung - Hung - Hanging**
+
+Examples:
+Hang the picture on the wall. तस्वीर दीवार पर लटका दो।
+
+The wires are hanging. तार लटक रहे हैं।
+
+---
+
+**25. Comb (कोम)** : कंघी करना
+**Comb - Combed - Combed - Combing**
+
+Examples:
+Comb your hair. अपने बालों में कंघी करो।
+
+She combed her hair. उसने अपने बाल संवारे।
+
+---
+
+**26. Bother (बॉदर)** : परेशान करना
+**Bother - Bothered - Bothered - Bothering**
+
+Examples:
+Don’t bother me. मुझे परेशान मत करो।
+
+Sorry to bother you. आपको परेशान करने के लिए माफ़ी।
+
+---
+
+**27. Sing (सिंग)** : गाना
+**Sing - Sang - Sung - Singing**
+
+Examples:
+I love singing songs. मुझे गाने गाना पसंद है।
+
+She sang beautifully. उसने सुंदर गाया।
+
+---
+
+**28. Dance (डांस)** : नाचना
+**Dance - Danced - Danced - Dancing**
+
+Examples:
+I love dancing. मुझे नाचना पसंद है।
+
+They danced all night. वे पूरी रात नाचे।
+
+---
+
+**29. Seem (सीम)** : लगना / प्रतीत होना
+**Seem - Seemed - Seemed - Seeming**
+
+Examples:
+It seems he is busy. लगता है वह व्यस्त है।
+
+You seem tired. तुम थके हुए लग रहे हो।
+
+---
+
+**30. Show (शो)** : दिखाना
+**Show - Showed - Shown - Showing**
+
+Examples:
+Show me your new phone. मुझे अपना नया फोन दिखाओ।
+
+He showed the way. उसने रास्ता दिखाया।
+
+---
+
+**31. Want (वॉन्ट)** : चाहना
+**Want - Wanted - Wanted - Wanting**
+
+Examples:
+I don’t want this. मैं यह नहीं चाहता।
+
+She wanted help. उसे मदद चाहिए थी।
+
+---
+
+**32. Meet (मीट)** : मिलना
+**Meet - Met - Met - Meeting**
+
+Examples:
+He meets me every day. वह मुझसे रोज मिलता है।
+
+We met yesterday. हम कल मिले।
+
+---
+
+**33. Try (ट्राय)** : कोशिश करना
+**Try - Tried - Tried - Trying**
+
+Examples:
+I am trying to learn English. मैं अंग्रेजी सीखने की कोशिश कर रहा हूँ।
+
+Try again. फिर कोशिश करो।
+
+---
+
+**34. Complain (कम्प्लेन)** : शिकायत करना
 **Complain - Complained - Complained - Complaining**
 
-**Examples:**
-He complained about the bad service.
-उसने खराब सेवा के बारे में शिकायत की।
+Examples:
+I will complain to your boss. मैं तुम्हारे बॉस से शिकायत करूंगा।
 
-She complained to the manager.
-उसने मैनेजर से शिकायत की।
+She complained about the service. उसने सेवा की शिकायत की।
 
 ---
 
-**214. Cook (कुक)** : खाना बनाना
-**Cook - Cooked - Cooked - Cooking**
+**35. Hide (हाइड)** : छिपना / छिपाना
+**Hide - Hid - Hidden - Hiding**
 
-**Examples:**
-My mother cooks delicious meals.
-मेरी माँ स्वादिष्ट खाना बनाती हैं।
+Examples:
+I hid your pen. मैंने तुम्हारा पेन छिपा दिया।
 
-He cooked dinner last night.
-उसने कल रात खाना बनाया।
+Hide behind the door. दरवाजे के पीछे छिप जाओ।
 
 ---
 
-**215. Copy (कॉपी)** : नकल करना
-**Copy - Copied - Copied - Copying**
+**36. Spit (स्पिट)** : थूकना
+**Spit - Spat/Spit - Spat/Spit - Spitting**
 
-**Examples:**
-Please copy these notes.
-कृपया ये नोट्स कॉपी करो।
+Examples:
+Don’t spit here. यहाँ मत थूको।
 
-She copied the answers from her friend.
-उसने अपने दोस्त से जवाब नकल किए।
+He spat on the ground. उसने जमीन पर थूका।
 
 ---
 
+**37. Abuse (अब्यूज़)** : गाली देना / दुर्व्यवहार करना
+**Abuse - Abused - Abused - Abusing**
 
+Examples:
+Don’t abuse anyone. किसी को गाली मत दो।
 
+He abused the servant. उसने नौकर के साथ दुर्व्यवहार किया।
 
+---
 
+**38. Tie (टाई)** : बाँधना
+**Tie - Tied - Tied - Tying**
 
+Examples:
+Tie your shoelaces. अपने जूते के फीते बाँधो।
 
+She tied the rope. उसने रस्सी बाँधी।
 
+---
 
+**39. Weave (वीव)** : बुनना
+**Weave - Wove - Woven - Weaving**
 
+Examples:
+He weaves clothes. वह कपड़े बुनता है।
 
+She wove a basket. उसने टोकरी बुनी।
 
+---
 
+**40. Bathe (बेथ)** : नहाना
+**Bathe - Bathed - Bathed - Bathing**
 
+Examples:
+I am going to bathe. मैं नहाने जा रहा हूँ।
 
+The baby was bathed. बच्चे को नहलाया गया।
 
+---
 
+**41. Drench (ड्रेंच)** : गीला कर देना / भिगो देना
+**Drench - Drenched - Drenched - Drenching**
 
+Examples:
+The rain drenched me. बारिश ने मुझे भिगो दिया।
 
+He drenched the cloth in water. उसने कपड़ा पानी में भिगो दिया।
 
+---
 
+**42. Dry (ड्राय)** : सुखाना
+**Dry - Dried - Dried - Drying**
+
+Examples:
+Dry the clothes in the sun. कपड़ों को धूप में सुखाओ।
+
+My shirt dried quickly. मेरी शर्ट जल्दी सूख गई।
+
+---
+
+**43. Dream (ड्रीम)** : सपना देखना
+**Dream - Dreamed/Dreamt - Dreamed/Dreamt - Dreaming**
+
+Examples:
+I dream of becoming rich. मैं अमीर बनने का सपना देखता हूँ।
+
+He dreamt about you. उसने तुम्हारे बारे में सपना देखा।
+
+---
+
+**44. Discriminate (डिस्क्रिमिनेट)** : पक्षपात करना
+**Discriminate - Discriminated - Discriminated - Discriminating**
+
+Examples:
+Don’t discriminate between people. लोगों के बीच पक्षपात मत करो।
+
+They discriminated against him. उन्होंने उसके साथ भेदभाव किया।
+
+---
+
+**45. Repair (रिपेयर)** : मरम्मत करना
+**Repair - Repaired - Repaired - Repairing**
+
+Examples:
+Repair my bike. मेरी बाइक ठीक कर दो।
+
+He repaired the fan. उसने पंखा ठीक किया।
+
+---
+
+**46. Decorate (डेकोरेट)** : सजाना
+**Decorate - Decorated - Decorated - Decorating**
+
+Examples:
+We decorated the house. हमने घर सजाया।
+
+She is decorating the room. वह कमरा सजा रही है।
+
+---
+
+**47. Regret (रिग्रेट)** : खेद व्यक्त करना
+**Regret - Regretted - Regretted - Regretting**
+
+Examples:
+I regret the inconvenience. मुझे असुविधा के लिए खेद है।
+
+He regretted his mistake. उसे अपनी गलती पर पछतावा हुआ।
+
+---
+
+**48. Handle (हैंडल)** : संभालना
+**Handle - Handled - Handled - Handling**
+
+Examples:
+Handle the situation calmly. स्थिति को शांतिपूर्वक संभालो।
+
+She handled the work well. उसने काम अच्छी तरह संभाला।
+
+---
+
+**49. Amaze (अमेज)** : चौंका देना
+**Amaze - Amazed - Amazed - Amazing**
+
+Examples:
+The result amazed everyone. परिणाम ने सबको चौंका दिया।
+
+His talent amazes me. उसकी प्रतिभा मुझे चौंका देती है।
+
+---
+
+**50. Express (एक्सप्रेस)** : व्यक्त करना
+**Express - Expressed - Expressed - Expressing**
+
+Examples:
+Express your feelings. अपनी भावनाएँ व्यक्त करो।
+
+He expressed his opinion. उसने अपनी राय व्यक्त की।
+
+---
+
+**51. Describe (डिस्क्राइब)** : वर्णन करना
+**Describe - Described - Described - Describing**
+
+Examples:
+Can you describe the incident? क्या आप घटना का वर्णन कर सकते हैं?
+
+He described everything clearly. उसने सब कुछ साफ-साफ बताया।
+
+---
+
+**52. Happen (हैपन)** : घटित होना
+**Happen - Happened - Happened - Happening**
+
+Examples:
+This can happen to anyone. यह किसी के साथ भी हो सकता है।
+
+What happened yesterday? कल क्या हुआ?
+
+---
+
+**53. Throw (थ्रो)** : फेंकना
+**Throw - Threw - Thrown - Throwing**
+
+Examples:
+Throw the ball to me. गेंद मेरी तरफ फेंको।
+
+He threw the stone. उसने पत्थर फेंका।
+
+---
+
+**54. Mix (मिक्स)** : मिलाना
+**Mix - Mixed - Mixed - Mixing**
+
+Examples:
+Mix water with milk. पानी को दूध में मिलाओ।
+
+She mixed the colors. उसने रंग मिला दिए।
+
+---
+
+**55. Melt (मेल्ट)** : पिघलना
+**Melt - Melted - Melted - Melting**
+
+Examples:
+The ice is melting. बर्फ पिघल रही है।
+
+Butter melts quickly. मक्खन जल्दी पिघलता है।
+
+---
+
+**56. Ice (आइस)** : बर्फ जमाना
+**Ice - Iced - Iced - Icing**
+
+Examples:
+Ice the water in the fridge. पानी को फ्रिज में जमा दो।
+
+He iced the cake. उसने केक पर आइसिंग की।
+
+---
+
+**57. Destroy (डिस्ट्रॉय)** : बर्बाद करना
+**Destroy - Destroyed - Destroyed - Destroying**
+
+Examples:
+One mistake destroyed my plan. एक गलती ने मेरी योजना बर्बाद कर दी।
+
+The storm destroyed the house. तूफान ने घर नष्ट कर दिया।
+
+---
+
+**58. Enjoy (एन्जॉय)** : मजे करना / आनंद लेना
+**Enjoy - Enjoyed - Enjoyed - Enjoying**
+
+Examples:
+I enjoy spending time with family. मुझे परिवार के साथ समय बिताना पसंद है।
+
+Enjoy the party. पार्टी का आनंद लो।
+
+---
+
+**59. Agree (अग्री)** : सहमत होना
+**Agree - Agreed - Agreed - Agreeing**
+
+Examples:
+I agree with you. मैं तुमसे सहमत हूँ।
+
+They agreed to the plan. वे योजना से सहमत हो गए।
+
+---
+
+**60. Exaggerate (इग्जैजरेट)** : बढ़ा-चढ़ाकर कहना
+**Exaggerate - Exaggerated - Exaggerated - Exaggerating**
+
+Examples:
+Don’t exaggerate the matter. बात को बढ़ा-चढ़ाकर मत कहो।
+
+He exaggerated the story. उसने कहानी बढ़ा-चढ़ाकर बताई।
+
+---
+
+**61. Wash (वॉश)** : धोना
+**Wash - Washed - Washed - Washing**
+
+Examples:
+Wash your hands with soap. अपने हाथ साबुन से धोओ।
+
+She washed the clothes. उसने कपड़े धोए।
+
+---
+
+**62. Clean (क्लीन)** : साफ करना
+**Clean - Cleaned - Cleaned - Cleaning**
+
+Examples:
+Clean your room. अपना कमरा साफ करो।
+
+He cleaned the table. उसने मेज साफ की।
+
+---
+
+**63. Spread (स्प्रेड)** : फैलाना
+**Spread - Spread - Spread - Spreading**
+
+Examples:
+Spread the bedsheet properly. चादर अच्छी तरह फैला दो।
+
+The news spread quickly. खबर जल्दी फैल गई।
+
+---
+
+**64. Scatter (स्कैटर)** : बिखेरना
+**Scatter - Scattered - Scattered - Scattering**
+
+Examples:
+The child scattered the toys. बच्चे ने खिलौने बिखेर दिए।
+
+Don’t scatter papers. कागज मत बिखेरो।
+
+---
+
+**65. Pour (पोर)** : उड़ेलना / डालना
+**Pour - Poured - Poured - Pouring**
+
+Examples:
+Pour the milk into the glass. दूध गिलास में डालो।
+
+He poured water on the floor. उसने फर्श पर पानी उंडेल दिया।
+
+---
+
+**66. Spill (स्पिल)** : छलकाना / गिरा देना (तरल)
+**Spill - Spilt/Spilled - Spilt/Spilled - Spilling**
+
+Examples:
+Don’t spill the water. पानी मत गिराओ।
+
+She spilled the tea. उसने चाय गिरा दी।
+
+---
+
+**67. Trickle (ट्रिकल)** : बूंद-बूंद टपकना
+**Trickle - Trickled - Trickled - Trickling**
+
+Examples:
+Water is trickling from the tap. नल से बूंद-बूंद पानी टपक रहा है।
+
+Sweat trickled down his face. उसके चेहरे से पसीना टपक रहा था।
+
+---
+
+**68. Splash (स्प्लैश)** : छींटे मारना
+**Splash - Splashed - Splashed - Splashing**
+
+Examples:
+The car splashed dirty water on me. कार ने मुझ पर गंदा पानी उछाल दिया।
+
+Don’t splash water. पानी के छींटे मत उड़ाओ।
+
+---
+
+**69. Begin / Start (बिगिन / स्टार्ट)** : शुरू करना
+**Begin - Began - Begun - Beginning**
+**Start - Started - Started - Starting**
+
+Examples:
+The match will begin at 5. मैच 5 बजे शुरू होगा।
+
+Let’s start the work. चलो काम शुरू करें।
+
+---
+
+**70. End (एंड)** : खत्म करना
+**End - Ended - Ended - Ending**
+
+Examples:
+I ended my homework. मैंने अपना होमवर्क खत्म किया।
+
+The show ended late. शो देर से खत्म हुआ।
+
+---
+
+**71. Live (लिव)** : रहना
+**Live - Lived - Lived - Living**
+
+Examples:
+I live in Pune. मैं पुणे में रहता हूँ।
+
+They lived here for years. वे यहाँ वर्षों रहे।
+
+---
+
+**72. Stay (स्टे)** : ठहरना
+**Stay - Stayed - Stayed - Staying**
+
+Examples:
+We will stay in Delhi tonight. हम आज रात दिल्ली में ठहरेंगे।
+
+Stay here. यहीं रुको।
+
+---
+
+**73. Consider (कंसिडर)** : मानना
+**Consider - Considered - Considered - Considering**
+
+Examples:
+I consider you my friend. मैं तुम्हें अपना दोस्त मानता हूँ।
+
+Please consider my request. कृपया मेरी विनती पर विचार करें।
+
+---
+
+**74. Appear (अपीयर)** : दिखाई देना
+**Appear - Appeared - Appeared - Appearing**
+
+Examples:
+The moon appeared in the sky. आसमान में चाँद दिखाई दिया।
+
+He suddenly appeared. वह अचानक दिखाई दिया।
+
+---
+
+**75. Disappear (डिसअपीयर)** : गायब हो जाना
+**Disappear - Disappeared - Disappeared - Disappearing**
+
+Examples:
+He disappeared from there. वह वहाँ से गायब हो गया।
+
+The pain disappeared. दर्द गायब हो गया।
+
+---
+
+**76. Whistle (व्हिसल)** : सीटी मारना
+**Whistle - Whistled - Whistled - Whistling**
+
+Examples:
+The watchman whistles at night. चौकीदार रात में सीटी मारता है।
+
+Don’t whistle here. यहाँ सीटी मत बजाओ।
+
+---
+
+**77. Wink (विंक)** : आँख मारना
+**Wink - Winked - Winked - Winking**
+
+Examples:
+Why did you wink at me? तुमने मुझे आँख क्यों मारी?
+
+He winked playfully. उसने मजाक में आँख मारी।
+
+---
+
+**78. Gesture (जेस्चर)** : इशारा करना
+**Gesture - Gestured - Gestured - Gesturing**
+
+Examples:
+He gestured to sit. उसने बैठने का इशारा किया।
+
+She gestured with her hand. उसने हाथ से इशारा किया।
+
+---
+
+**79. Itch (इच)** : खुजली करना
+**Itch - Itched - Itched - Itching**
+
+Examples:
+My hand is itching. मेरे हाथ में खुजली हो रही है।
+
+Don’t itch the wound. घाव मत खुजलाओ।
+
+---
+
+**80. Pinch (पिंच)** : चुटकी काटना
+**Pinch - Pinched - Pinched - Pinching**
+
+Examples:
+He pinched me hard. उसने मुझे जोर से चुटकी काटी।
+
+Don’t pinch the baby. बच्चे को चुटकी मत काटो।
+
+---
+
+**81. Include (इंक्लूड)** : शामिल करना
+**Include - Included - Included - Including**
+
+Examples:
+Include my name in the list. मेरा नाम सूची में शामिल करो।
+
+The price includes tax. कीमत में टैक्स शामिल है।
+
+---
+
+**82. Like (लाइक)** : पसंद करना
+**Like - Liked - Liked - Liking**
+
+Examples:
+I like this shirt. मुझे यह शर्ट पसंद है।
+
+She liked the movie. उसे फिल्म पसंद आई।
+
+---
+
+**83. Love (लव)** : प्यार करना
+**Love - Loved - Loved - Loving**
+
+Examples:
+I love my mother. मैं अपनी माँ से प्यार करता हूँ।
+
+They love each other. वे एक-दूसरे से प्यार करते हैं।
+
+---
+
+**84. Hope (होप)** : उम्मीद करना
+**Hope - Hoped - Hoped - Hoping**
+
+Examples:
+I hope you understand. मुझे उम्मीद है तुम समझते हो।
+
+We hoped for good news. हमें अच्छी खबर की उम्मीद थी।
+
+---
+
+**85. Motivate (मोटिवेट)** : प्रेरित करना
+**Motivate - Motivated - Motivated - Motivating**
+
+Examples:
+My teacher motivates me. मेरे शिक्षक मुझे प्रेरित करते हैं।
+
+He motivated the team. उसने टीम को प्रेरित किया।
+
+---
+
+**86. Ensure (एन्श्योर)** : सुनिश्चित करना
+**Ensure - Ensured - Ensured - Ensuring**
+
+Examples:
+Ensure that you reach on time. सुनिश्चित करो कि तुम समय पर पहुँचो।
+
+We ensured safety. हमने सुरक्षा सुनिश्चित की।
+
+---
+
+**87. Vomit (वॉमिट)** : उल्टी करना
+**Vomit - Vomited - Vomited - Vomiting**
+
+Examples:
+He vomited in the bus. उसने बस में उल्टी की।
+
+The child is vomiting. बच्चा उल्टी कर रहा है।
+
+---
+
+**88. Grow (ग्रो)** : बढ़ना / तरक्की करना
+**Grow - Grew - Grown - Growing**
+
+Examples:
+The company is growing fast. कंपनी तेजी से बढ़ रही है।
+
+He grew taller. वह लंबा हो गया।
+
+---
+
+**89. Invest (इन्वेस्ट)** : पैसा लगाना
+**Invest - Invested - Invested - Investing**
+
+Examples:
+I invested in the stock market. मैंने शेयर बाजार में पैसा लगाया।
+
+Invest wisely. समझदारी से निवेश करो।
+
+---
+
+**90. Waste (वेस्ट)** : व्यर्थ करना
+**Waste - Wasted - Wasted - Wasting**
+
+Examples:
+Don’t waste time. समय बर्बाद मत करो।
+
+He wasted his money. उसने अपने पैसे बर्बाद कर दिए।
+
+---
+
+**91. Save (सेव)** : बचाना
+**Save - Saved - Saved - Saving**
+
+Examples:
+I save money every month. मैं हर महीने पैसे बचाता हूँ।
+
+Save this file. इस फाइल को सेव करो।
+
+---
+
+**92. Fill (फिल)** : भरना
+**Fill - Filled - Filled - Filling**
+
+Examples:
+Fill the bucket with water. बाल्टी में पानी भर दो।
+
+She filled the form. उसने फॉर्म भरा।
+
+---
+
+**93. Pay (पे)** : भुगतान करना
+**Pay - Paid - Paid - Paying**
+
+Examples:
+Pay the bill on time. बिल समय पर भर दो।
+
+I paid the fees. मैंने फीस भरी।
+
+---
+
+**94. Use (यूज़)** : प्रयोग करना
+**Use - Used - Used - Using**
+
+Examples:
+I am using this shampoo. मैं यह शैंपू इस्तेमाल कर रहा हूँ।
+
+Use this pen. यह पेन इस्तेमाल करो।
+
+---
+
+**95. Follow (फॉलो)** : पीछा करना
+**Follow - Followed - Followed - Following**
+
+Examples:
+He is following me. वह मेरा पीछा कर रहा है।
+
+Follow the rules. नियमों का पालन करो।
+
+---
+
+**96. Stop (स्टॉप)** : रोकना
+**Stop - Stopped - Stopped - Stopping**
+
+Examples:
+Stop the car. गाड़ी रोक दो।
+
+He stopped me from going. उसने मुझे जाने से रोका।
+
+---
+
+**97. Allow (अलाउ)** : इजाज़त देना
+**Allow - Allowed - Allowed - Allowing**
+
+Examples:
+Papa doesn’t allow me to go out. पापा मुझे बाहर जाने नहीं देते।
+
+They allowed entry. उन्होंने प्रवेश की अनुमति दी।
+
+---
+
+**98. Add (ऐड)** : जोड़ना
+**Add - Added - Added - Adding**
+
+Examples:
+Add this page to the file. यह पेज फाइल में जोड़ो।
+
+She added sugar. उसने चीनी डाली।
+
+---
+
+**99. Subtract / Deduct (सब्ट्रैक्ट / डिडक्ट)** : घटाना
+**Subtract - Subtracted - Subtracted - Subtracting**
+**Deduct - Deducted - Deducted - Deducting**
+
+Examples:
+Subtract 5 from 10. 10 में से 5 घटाओ।
+
+They deducted money from my salary. उन्होंने मेरी सैलरी से पैसे काटे।
+
+---
+
+**100. Divide (डिवाइड)** : भाग देना
+**Divide - Divided - Divided - Dividing**
+
+Examples:
+Divide 10 by 2. 10 को 2 से भाग दो।
+
+The teacher divided the class. शिक्षक ने कक्षा को बाँट दिया।
+
+---
+
+**101. Multiply (मल्टिप्लाई)** : गुणा करना
+**Multiply - Multiplied - Multiplied - Multiplying**
+
+Examples:
+Multiply 5 by 2. 5 को 2 से गुणा करो।
+
+Can you multiply quickly? क्या तुम जल्दी गुणा कर सकते हो?
+
+---
+
+**102. Choose (चूज़)** : चुनना
+**Choose - Chose - Chosen - Choosing**
+
+Examples:
+Choose any shirt you like. जो शर्ट पसंद हो चुन लो।
+
+He chose the red one. उसने लाल वाला चुना।
+
+---
+
+**103. Wait (वेट)** : इंतजार करना
+**Wait - Waited - Waited - Waiting**
+
+Examples:
+Wait for me. मेरा इंतजार करो।
+
+I have been waiting for an hour. मैं एक घंटे से इंतजार कर रहा हूँ।
+
+---
+
+**104. Die (डाई)** : मरना
+**Die - Died - Died - Dying**
+
+Examples:
+Many people die every year due to hunger. हर साल कई लोग भूख से मर जाते हैं।
+
+The plant died. पौधा मर गया।
+
+---
+
+**105. Send (सेंड)** : भेजना
+**Send - Sent - Sent - Sending**
+
+Examples:
+Send him the file. उसे फाइल भेजो।
+
+I sent the message. मैंने संदेश भेजा।
+
+---
+
+**106. Reach / Arrive (रीच / अराइव)** : पहुँचना
+**Reach - Reached - Reached - Reaching**
+**Arrive - Arrived - Arrived - Arriving**
+
+Examples:
+The train reached on time. ट्रेन समय पर पहुँची।
+
+We arrived early. हम जल्दी पहुँच गए।
+
+---
+
+**107. Remain (रिमेन)** : बना रहना
+**Remain - Remained - Remained - Remaining**
+
+Examples:
+He remained silent. वह चुप बना रहा।
+
+Only two days remain. केवल दो दिन बाकी हैं।
+
+---
+
+**108. Pass (पास)** : पास होना
+**Pass - Passed - Passed - Passing**
+
+Examples:
+You will pass the exam. तुम परीक्षा पास कर जाओगे।
+
+She passed easily. वह आसानी से पास हो गई।
+
+---
+
+**109. Fail (फेल)** : फेल होना
+**Fail - Failed - Failed - Failing**
+
+Examples:
+Don’t fail in the exam. परीक्षा में फेल मत होना।
+
+He failed the test. वह टेस्ट में फेल हो गया।
+
+---
+
+**110. Need (नीड)** : जरूरत होना
+**Need - Needed - Needed - Needing**
+
+Examples:
+I need money. मुझे पैसों की जरूरत है।
+
+We needed help. हमें मदद की जरूरत थी।
+
+---
+
+**111. Decide (डिसाइड)** : फैसला करना
+**Decide - Decided - Decided - Deciding**
+
+Examples:
+Decide quickly. जल्दी फैसला करो।
+
+I decided to leave. मैंने जाने का फैसला किया।
+
+---
+
+**112. Fight (फाइट)** : लड़ना
+**Fight - Fought - Fought - Fighting**
+
+Examples:
+Two boys are fighting. दो लड़के लड़ रहे हैं।
+
+Don’t fight with me. मुझसे मत लड़ो।
+
+---
+
+**113. Argue (आर्ग्यू)** : बहस करना
+**Argue - Argued - Argued - Arguing**
+
+Examples:
+Don’t argue with elders. बड़ों से बहस मत करो।
+
+They argued for hours. वे घंटों बहस करते रहे।
+
+---
+
+**114. Complete (कम्प्लीट)** : पूरा करना
+**Complete - Completed - Completed - Completing**
+
+Examples:
+Complete your homework. अपना होमवर्क पूरा करो।
+
+He completed the task. उसने काम पूरा किया।
+
+---
+
+**115. Accept (एक्सेप्ट)** : स्वीकार करना
+**Accept - Accepted - Accepted - Accepting**
+
+Examples:
+He accepted his mistake. उसने अपनी गलती स्वीकार की।
+
+Please accept this gift. कृपया यह उपहार स्वीकार करें।
+
+---
+
+**116. Swim (स्विम)** : तैरना
+**Swim - Swam - Swum - Swimming**
+
+Examples:
+I love to swim. मुझे तैरना पसंद है।
+
+He swam across the river. वह नदी पार तैर गया।
+
+---
